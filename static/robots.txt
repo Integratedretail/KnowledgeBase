@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://integrated-retail.github.io/knowledge-base/sitemap.xml
+Sitemap: https://integrated-retail-knowledge-base.github.io/knowledge-base/sitemap.xml
