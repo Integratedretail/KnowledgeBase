@@ -7,8 +7,9 @@ date: 2026-08-03
 
 # Why Modern Retailers Need a Unified Commerce Platform
 
-## One Platform. One View. Every Channel.**![95ef242c-b2d8e96f-6a709e287570f4.43133555](./glpi-doc-695.png)
+## One Platform. One View. Every Channel.
 
+![95ef242c-b2d8e96f-6a709e287570f4.43133555](./glpi-doc-695.png)
 Retail has changed dramatically over the past decade. Customers no longer think in terms of channels. They expect a seamless experience whether they are shopping online, browsing through a mobile app, purchasing in-store, or collecting an order from a pickup point.
 
 {/* truncate */}
@@ -23,7 +24,7 @@ Today's consumers expect convenience, speed, and consistency across every touchp
 
 Retailers that cannot support these journeys risk losing sales, damaging customer loyalty, and increasing operational costs.
 
-The challenge:** Most retailers still operate multiple disconnected systems that were never designed for modern omnichannel commerce.
+**The challenge:** Most retailers still operate multiple disconnected systems that were never designed for modern omnichannel commerce.
 
 ## The Hidden Cost of Disconnected Retail Systems
 
