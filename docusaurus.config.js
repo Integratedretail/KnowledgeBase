@@ -33,6 +33,15 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
+  markdown: {
+    hooks: {
+      // GLPI-authored content can include images uploaded directly into
+      // its editor, which serialize to GLPI-internal URLs (e.g.
+      // /front/document.send.php?...) that can never resolve from a
+      // static build. Warn instead of failing the whole build.
+      onBrokenMarkdownImages: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
