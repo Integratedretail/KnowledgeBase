@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkintegrated_retail_kb=self.webpackChunkintegrated_retail_kb||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Retail Technology Insights","authorsListPath":"/blog/authors"}')}}]);
