@@ -13,7 +13,9 @@ const config = {
   title: 'Integrated Retail Knowledge Hub',
   tagline:
     'Omnichannel POS, unified commerce and retail technology guides for fashion, lifestyle and CPG retailers in Asia Pacific',
-  favicon: 'img/ir-icon.png',
+  // 96x96 (multiple of 48) per Google's SERP-favicon guidelines; a root
+  // /favicon.ico also exists in static/ as the classic crawler fallback.
+  favicon: 'img/ir-icon-96.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
