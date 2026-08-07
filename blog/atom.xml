@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kb.integratedretail.com/blog</id>
     <title>Integrated Retail Knowledge Hub Blog</title>
-    <updated>2026-08-03T00:00:00.000Z</updated>
+    <updated>2026-08-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kb.integratedretail.com/blog"/>
     <subtitle>Integrated Retail Knowledge Hub Blog</subtitle>
     <icon>https://kb.integratedretail.com/img/ir-icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TEST Article]]></title>
+        <id>https://kb.integratedretail.com/blog/test-article</id>
+        <link href="https://kb.integratedretail.com/blog/test-article"/>
+        <updated>2026-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[<p>test
+<img decoding="async" loading="lazy" alt="95ef242c-b2d8e96f-6a754171a0d870.99338695" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAACICAIAAAAJe7xlAAADKklEQVR4AezTsY0cMRBE0cFFdCEpSvlKQNEIMmTJ5hl9aJCs6u75gpzFzk6R/+E+ns8fzyf/qxT4+ev3n7//7v3/ePj3pgJ4v0n7efDG+10F3nVb/r7xfleBd92Wv2+8lQXY0hbg71vb272Gt1tAu4+3trd7DW+3gHYfb21v9xrebgHtPt7a3u61t3u7+6v38VYX9+7h7e2vXsdbXdy7h7e3v3odb3Vx7x7e3v7qdbzVxb17eHv7q9fxVhf37uHt7a9ex1td3LuHt7e/eh1vdXHvHt7e/up1vNXFvXt4e/ur1796q/fZ0xbAW9vbvYa3W0C7j7e2t3sNb7eAdh9vbW/3Gt5uAe0+3tre7rVq3u4e0/fxni683g/vtcf0T3hPF17vh/faY/onvKcLr/fDe+0x/RPe04XX++G99pj+Ce/pwuv98F57TP+E93Th9X54rz2mf8J7uvB6P7zXHtM/4T1deL0f3msP96fb+3jfLlzr/XjX8rh9GrxvF671frxredw+Dd63C9d6P961PG6fBu/bhWu9H+9aHrdP85337X3ery2At7a3ew1vt4B2H29tb/ca3m4B7T7e2t7uNbzdAtp9vLW93WvVvd19pu3jPU00vg/ecZ9p3+I9TTS+D95xn2nf4j1NNL4P3nGfad/iPU00vg/ecZ9p3+I9TTS+D95xn2nf4j1NNL4P3nGfad/iPU00vg/ecZ9p3+I9TTS+D95xH/e3p/fxPl209vvwru1z+nR4ny5a+3141/Y5fTq8Txet/T68a/ucPh3ep4vWfh/etX1Ony7rfXqf92kL4K3t7V7D2y2g3cdb29u9hrdbQLuPt7a3ew1vt4B2H29tb/daN293r+77eHcXzJ0f71yv7k/j3V0wd368c726P413d8Hc+fHO9er+NN7dBXPnxzvXq/vTeHcXzJ0f71yv7k/j3V0wd368c726P413d8Hc+fHO9er+NN7dBXPnxzvXy/307j7euwV7/R7vXl67p8V7t2Cv3+Pdy2v3tHjvFuz1e7x7ee2eFu/dgr1+j3cvr93T7nrv7vN7bQG8tb3da3i7BbT7eGt7u9f+AwAA///rUurjAAAABklEQVQDAOY+p8L/rzSiAAAAAElFTkSuQmCC" width="165" height="136" class="img_ev3q"></p>
+]]></content>
+        <author>
+            <name>Integrated Retail</name>
+            <uri>https://integratedretail.com</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing A POS System For Fashion Retail]]></title>
         <id>https://kb.integratedretail.com/blog/choosing-a-pos-system-for-fashion-retail</id>
