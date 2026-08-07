@@ -101,6 +101,30 @@ const config = {
     ],
   ],
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {type: 'application/ld+json'},
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Integrated Retail',
+        url: 'https://integratedretail.com',
+        logo: 'https://kb.integratedretail.com/img/ir-logo.png',
+      }),
+    },
+    {
+      tagName: 'script',
+      attributes: {type: 'application/ld+json'},
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Integrated Retail Knowledge Hub',
+        url: 'https://kb.integratedretail.com/',
+      }),
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
