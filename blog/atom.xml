@@ -13,12 +13,13 @@
         <link href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail"/>
         <updated>2026-08-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[AI demand forecasting for fashion retail predicts sell-through at the level where fashion is actually bought: store × product × size × color. That…]]></summary>
-        <content type="html"><![CDATA[<p>AI demand forecasting for fashion retail predicts sell-through at the level where fashion is actually bought: store × product × size × color. That granularity is what turns a forecast from a finance report into an operational tool — one that tells you which size curve will break in which store, weeks before it happens.</p>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="95ef242c-b2d8e96f-6a7b4fcd73cf88.39704239" src="https://kb.integratedretail.com/assets/images/glpi-doc-743-91db23e8217f2b38cdfd6e1d62647912.png" width="1461" height="819" class="img_ev3q">**
+AI demand forecasting for fashion retail predicts sell-through at the level where fashion is actually bought: store × product × size × color. That granularity is what turns a forecast from a finance report into an operational tool — one that tells you which size curve will break in which store, weeks before it happens.</p>
 <!-- -->
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-fashion-demand-is-genuinely-hard-to-forecast">Why fashion demand is genuinely hard to forecast<a href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail#why-fashion-demand-is-genuinely-hard-to-forecast" class="hash-link" aria-label="Direct link to Why fashion demand is genuinely hard to forecast" title="Direct link to Why fashion demand is genuinely hard to forecast" translate="no">​</a></h2>
 <ul>
 <li class="">
-<p><strong>Short seasons.</strong> By the time a traditional forecast has enough history to be confident, the selling window is half over.</p>
+<p>Short seasons.** By the time a traditional forecast has enough history to be confident, the selling window is half over.</p>
 </li>
 <li class="">
 <p><strong>Size curves.</strong> Companywide the item looks fine; in a specific store, the two sizes that sell are gone and the rest is dead stock.</p>
