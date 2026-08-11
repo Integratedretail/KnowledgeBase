@@ -2,6 +2,7 @@
 id: ioptimo-platform-109
 title: "iOPTIMO Platform"
 slug: /product-documentation/ioptimo-platform
+description: "iOPTIMO is Integrated Retail's proprietary AI inventory and transfer optimization platform, developed in-house alongside our retail technology ecosystem…"
 ---
 
 # iOPTIMO: AI-Powered Inventory Optimization for Modern Retailers

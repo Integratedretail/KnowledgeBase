@@ -1,7 +1,8 @@
 ---
 id: account-user-management-86
-title: "Account/User Management"
+title: "Account\/User Management"
 slug: /user-guide/account-user-management
+description: "Administrator — full access, including user and configuration management. Store manager — store-level reporting and operational controls. Cashier\/staff —…"
 ---
 
 ## Typical roles

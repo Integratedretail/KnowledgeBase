@@ -1,6 +1,7 @@
 ---
 slug: why-modern-retailers-need-a-unified-commerce-platform
 title: "Why Modern Retailers Need a Unified Commerce Platform"
+description: "Retail has changed dramatically over the past decade. Customers no longer think in terms of channels. They expect a seamless experience whether they are…"
 authors: [integratedretail]
 date: 2026-08-03
 ---

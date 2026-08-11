@@ -1,0 +1,20 @@
+---
+id: server-installation-96
+title: "Server Installation"
+slug: /user-guide/server-installation
+description: "For on-premise deployments requiring a local server: Confirm server hardware meets System Requirements. Install the operating system and required…"
+---
+
+For on-premise deployments requiring a local server:
+
+## Typical steps
+
+1. Confirm server hardware meets [System Requirements](../product-documentation/system-requirements).
+
+2. Install the operating system and required runtime/database components.
+
+3. Install the POS/retail management server software.
+
+4. Configure backups per the Backup Policy.
+
+5. Connect POS terminals to the server over the local network.
