@@ -7,7 +7,7 @@ description: "FootfallCam is one of Integrated Retail's core technology partners
 
 FootfallCam is one of **Integrated Retail's core technology partners**,
 alongside [Cegid](./cegid-retail-platform) and
-[Retail Pro Prism](./retailpro-prism-platform). FootfallCam is a smart
+[Retail Pro Prism](./retail-pro-prism-platform). FootfallCam is a smart
 retail analytics solution — designed and manufactured in the UK since
 2002 — that helps businesses understand customer behavior through people
 counting and in-store analytics.
@@ -36,7 +36,7 @@ how long shoppers spend in-store.
 
 Connects with the POS and CRM systems retailers already run (including
 [Cegid](./cegid-retail-platform) and
-[Retail Pro Prism](./retailpro-prism-platform)), so footfall data sits
+[Retail Pro Prism](./retail-pro-prism-platform)), so footfall data sits
 alongside sales and customer data instead of in a separate silo.
 
 ### Privacy-first by design

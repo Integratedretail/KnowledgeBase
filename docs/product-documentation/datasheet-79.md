@@ -37,7 +37,7 @@ Traffic Counting
 People counting, heatmaps and dwell-time analytics — see [FootfallCam](./footfallcam-platform).
 
 These modules are delivered via our core platforms —
-[Cegid](./cegid-retail-platform), [Retail Pro Prism](./retailpro-prism-platform)
+[Cegid](./cegid-retail-platform), [Retail Pro Prism](./retail-pro-prism-platform)
 and [FootfallCam](./footfallcam-platform) — matched to what fits your
 business.
 
