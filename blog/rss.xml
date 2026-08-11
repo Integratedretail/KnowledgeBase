@@ -4,10 +4,56 @@
         <title>Integrated Retail Knowledge Hub Blog</title>
         <link>https://kb.integratedretail.com/blog</link>
         <description>Integrated Retail Knowledge Hub Blog</description>
-        <lastBuildDate>Tue, 11 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Cross-Selling at Checkout]]></title>
+            <link>https://kb.integratedretail.com/blog/cross-selling-at-checkout</link>
+            <guid>https://kb.integratedretail.com/blog/cross-selling-at-checkout</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cross-selling at checkout is the practice of recommending a relevant add-on at the moment a customer is already committed to buying — and it works because…]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="95ef242c-b2d8e96f-6a7b56383d74c7.82883038" src="https://kb.integratedretail.com/assets/images/glpi-doc-746-b4a1d70a45ce5e35836a214ca13766de.png" width="1535" height="595" class="img_ev3q">**
+Cross-selling at checkout is the practice of recommending a relevant add-on at the moment a customer is already committed to buying — and it works because the hardest part of the sale is finished. The basket is open, the wallet is out, and a well-chosen suggestion feels like service, not selling.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-checkout-is-the-best-cross-sell-moment-in-the-store">Why checkout is the best cross-sell moment in the store<a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout#why-checkout-is-the-best-cross-sell-moment-in-the-store" class="hash-link" aria-label="Direct link to Why checkout is the best cross-sell moment in the store" title="Direct link to Why checkout is the best cross-sell moment in the store" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>Commitment is settled.** The customer has already decided to buy; adding one small item is a much lower barrier than the original purchase decision.</p>
+</li>
+<li class="">
+<p><strong>Context is complete.</strong> Only at the register do you know the full basket — which makes the recommendation dramatically more relevant than any mid-aisle promotion.</p>
+</li>
+<li class="">
+<p><strong>Attention is captive.</strong> During payment processing the customer is looking at the counter. That dwell time is either wasted or working.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-most-stores-still-do-it-badly">Why most stores still do it badly<a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout#why-most-stores-still-do-it-badly" class="hash-link" aria-label="Direct link to Why most stores still do it badly" title="Direct link to Why most stores still do it badly" translate="no">​</a></h2>
+<p>The classic approach is the cashier prompt (“would you like socks with that?”) backed by counter merchandising. Both have real limits: staff prompts are inconsistent and disappear under queue pressure, and a static counter display shows the same items to every customer regardless of what they are buying.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-good-checkout-cross-selling-looks-like">What good checkout cross-selling looks like<a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout#what-good-checkout-cross-selling-looks-like" class="hash-link" aria-label="Direct link to What good checkout cross-selling looks like" title="Direct link to What good checkout cross-selling looks like" translate="no">​</a></h2>
+<ol>
+<li class="">
+<p><strong>React to the basket.</strong> The recommendation should fit what is being scanned — care products with leather shoes, a matching accessory with a dress — using the product and transaction context the POS already has.</p>
+</li>
+<li class="">
+<p><strong>Keep it to one clear offer.</strong> A screen crowded with six promotions converts worse than one relevant suggestion with a strong visual.</p>
+</li>
+<li class="">
+<p><strong>Use bundles and seasonal moments.</strong> “Complete the set” and time-boxed seasonal offers consistently outperform generic discounts.</p>
+</li>
+<li class="">
+<p><strong>Never slow the queue.</strong> The offer must resolve in seconds — a barcode the cashier scans, a yes/no from the customer — or peak-hour operations will kill the program.</p>
+</li>
+<li class="">
+<p><strong>Measure attachment rate and basket value.</strong> If you cannot see which campaigns moved those two numbers, you are running decoration, not cross-sell.</p>
+</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="automating-it-on-the-customer-display">Automating it on the customer display<a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout#automating-it-on-the-customer-display" class="hash-link" aria-label="Direct link to Automating it on the customer display" title="Direct link to Automating it on the customer display" translate="no">​</a></h2>
+<p>A customer-facing screen at the register does the prompting for you — consistently, in every store, on every transaction. <a href="https://kb.integratedretail.com/docs/product-documentation/iposit-platform" target="_blank" rel="noopener noreferrer" class="">iPosit</a> runs real-time cross-sell campaigns on checkout displays, reacting to POS context, with store-level scheduling and campaign analytics, on top of platforms like <a href="https://kb.integratedretail.com/docs/product-documentation/cegid-retail-platform" target="_blank" rel="noopener noreferrer" class="">Cegid</a> and <a href="https://kb.integratedretail.com/docs/product-documentation/retail-pro-prism-platform" target="_blank" rel="noopener noreferrer" class="">Retail Pro Prism</a>.</p>
+<p>For the strategic picture of treating your stores as a media channel, start with <a href="https://kb.integratedretail.com/blog/in-store-retail-media" target="_blank" rel="noopener noreferrer" class="">in-store retail media</a>; for the hardware side, see <a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail" target="_blank" rel="noopener noreferrer" class="">customer-facing displays in retail</a>.</p>
+<p><a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Book a demo</a> to see checkout cross-sell running on your own product data.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AI Demand Forecasting for Fashion Retail]]></title>
             <link>https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail</link>
