@@ -6,6 +6,7 @@ authors: [integratedretail]
 date: 2026-08-11
 ---
 
+![95ef242c-b2d8e96f-6a7b50a2582b93.71795449](./glpi-doc-744.png)**
 Inter-store stock transfer optimization is the practice of rebalancing inventory you already own: moving units from stores where they sit idle to stores where they would sell this week. For multi-store retailers it is usually the fastest inventory win available, because it recovers sales and protects margin without spending a single dollar of new purchase budget.
 
 {/* truncate */}
@@ -16,7 +17,7 @@ When a store runs short on a selling item, the reflex is to reorder. But a reord
 
 Rebalancing that stock does three things at once:
 
-- **Recovers the sale** at the store that had the demand.
+- Recovers the sale** at the store that had the demand.
 
 - **Rescues the excess** at the store that did not, before it needs a discount.
 
