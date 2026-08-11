@@ -5,8 +5,6 @@ slug: /product-documentation/iposit-platform
 description: "Transform every checkout into a revenue opportunity with real-time customer display campaigns, cross-sell recommendations, and centralized retail…"
 ---
 
-```html
-
 # iPosit Customer Display Platform for Retail | Real-Time In-Store Promotions & POS Campaign Management
 
 ![95ef242c-b2d8e96f-6a7b019f7b9816.20765603](./glpi-doc-740.png)
