@@ -55,6 +55,55 @@ Cross-selling at checkout is the practice of recommending a relevant add-on at t
 <p><a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Book a demo</a> to see checkout cross-sell running on your own product data.</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Customer-Facing Displays in Retail]]></title>
+            <link>https://kb.integratedretail.com/blog/customer-facing-displays-in-retail</link>
+            <guid>https://kb.integratedretail.com/blog/customer-facing-displays-in-retail</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A customer-facing display is the second screen at the point of sale — the one turned toward the shopper. Traditionally it just mirrored the receipt…]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="95ef242c-b2d8e96f-6a7b5762caa582.45626351" src="https://kb.integratedretail.com/assets/images/glpi-doc-747-4ac99c21723f0da3a48efccde06b42db.png" width="1524" height="672" class="img_ev3q">**A customer-facing display is the second screen at the point of sale — the one turned toward the shopper. Traditionally it just mirrored the receipt: items, prices, total. Modern retail treats it as something much more valuable: a guaranteed-attention marketing surface that reaches every single customer at the moment of purchase.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-receipt-mirror-to-media-surface">From receipt mirror to media surface<a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail#from-receipt-mirror-to-media-surface" class="hash-link" aria-label="Direct link to From receipt mirror to media surface" title="Direct link to From receipt mirror to media surface" translate="no">​</a></h2>
+<p>The display earns its place at the counter through transaction transparency — customers trust a register where they can watch items and prices appear. But between scans, during payment processing, and in idle moments, that same screen can carry:</p>
+<ul>
+<li class="">
+<p>Cross-sell recommendations** that react to what is being purchased.</p>
+</li>
+<li class="">
+<p><strong>Bundle and seasonal campaigns</strong> with modern, high-impact visuals.</p>
+</li>
+<li class="">
+<p><strong>Loyalty prompts</strong> — sign-up QR codes shown exactly when the customer is engaged with the transaction.</p>
+</li>
+<li class="">
+<p><strong>Brand and campaign messaging</strong> consistent across every store in the network.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-hardware-question">The hardware question<a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail#the-hardware-question" class="hash-link" aria-label="Direct link to The hardware question" title="Direct link to The hardware question" translate="no">​</a></h2>
+<p>Most modern POS terminals support a second display natively — dual-display configurations are now standard retail hardware (see our note on <a href="https://kb.integratedretail.com/docs/kb/cegid/modern-pos-hardware-dual-display" target="_blank" rel="noopener noreferrer" class="">modern POS hardware and dual displays</a>). If your registers already have a customer screen showing only the transaction, the hardware investment is already made; what is missing is the software layer that puts content on it.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-software-layer-what-to-look-for">The software layer: what to look for<a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail#the-software-layer-what-to-look-for" class="hash-link" aria-label="Direct link to The software layer: what to look for" title="Direct link to The software layer: what to look for" translate="no">​</a></h2>
+<ol>
+<li class="">
+<p><strong>POS integration, not a parallel system.</strong> The display should consume product and transaction context from the POS you already run, so campaigns can react at checkout in real time.</p>
+</li>
+<li class="">
+<p><strong>Central campaign control.</strong> Marketing should push a campaign to a store group in seconds — not file a ticket for someone to update each terminal.</p>
+</li>
+<li class="">
+<p><strong>Store-level targeting.</strong> Campaigns scheduled by store group, time window, and promotion objective, so local relevance survives central control.</p>
+</li>
+<li class="">
+<p><strong>Retail-grade reliability.</strong> The screen is part of the checkout; it must stay stable through daily store operations with real-time sync.</p>
+</li>
+<li class="">
+<p><strong>Analytics.</strong> Impressions matter less than what campaigns did to attachment rate and basket value.</p>
+</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="putting-it-together">Putting it together<a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail#putting-it-together" class="hash-link" aria-label="Direct link to Putting it together" title="Direct link to Putting it together" translate="no">​</a></h2>
+<p><a href="https://kb.integratedretail.com/docs/product-documentation/iposit-platform" target="_blank" rel="noopener noreferrer" class="">iPosit</a>, Integrated Retail’s in-store customer display platform, is that software layer: instant campaign activation on customer-facing screens, store-level control, and campaign analytics, working with POS platforms like <a href="https://kb.integratedretail.com/docs/product-documentation/cegid-retail-platform" target="_blank" rel="noopener noreferrer" class="">Cegid</a> and <a href="https://kb.integratedretail.com/docs/product-documentation/retail-pro-prism-platform" target="_blank" rel="noopener noreferrer" class="">Retail Pro Prism</a>. Most teams launch their first store in under a week.</p>
+<p>For the strategy behind the screen, read <a href="https://kb.integratedretail.com/blog/in-store-retail-media" target="_blank" rel="noopener noreferrer" class="">in-store retail media</a> and <a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout" target="_blank" rel="noopener noreferrer" class="">cross-selling at checkout</a>.</p>
+<p><a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Book a demo</a> to see it live on your own store setup.</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[AI Demand Forecasting for Fashion Retail]]></title>
             <link>https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail</link>
             <guid>https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail</guid>
