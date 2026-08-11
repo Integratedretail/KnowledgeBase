@@ -189,6 +189,51 @@ versus</p>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In-Store Retail Media]]></title>
+        <id>https://kb.integratedretail.com/blog/in-store-retail-media</id>
+        <link href="https://kb.integratedretail.com/blog/in-store-retail-media"/>
+        <updated>2026-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In-store retail media means using the screens inside your own stores — especially customer-facing displays at checkout — as a promotion channel, the same…]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="95ef242c-b2d8e96f-6a7b54e751e1e2.76307960" src="https://kb.integratedretail.com/assets/images/glpi-doc-745-a7b4b998efc301ef6a992c2d0347f7a7.png" width="1536" height="1024" class="img_ev3q">**
+In-store retail media means using the screens inside your own stores — especially customer-facing displays at checkout — as a promotion channel, the same way e-commerce sites use their homepages and search results. For physical retailers it is the most under-used media asset they own: every shopper who reaches the counter looks at that screen, at the exact moment a purchase decision is being completed.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-in-store-media-is-having-its-moment">Why in-store media is having its moment<a href="https://kb.integratedretail.com/blog/in-store-retail-media#why-in-store-media-is-having-its-moment" class="hash-link" aria-label="Direct link to Why in-store media is having its moment" title="Direct link to Why in-store media is having its moment" translate="no">​</a></h2>
+<p>Retail media exploded online first: retailers realized their own digital real estate was valuable to brands and to their own promotions. The same logic is now moving into physical stores — and checkout is the natural starting point, because it is the one place in the store where attention is guaranteed. The customer is standing still, facing the counter, waiting for a payment to process.</p>
+<p>Compare that to the traditional in-store promotion toolkit:</p>
+<ul>
+<li class="">
+<p>Printed posters** — static, slow to change, impossible to localize per store without a print-and-ship cycle.</p>
+</li>
+<li class="">
+<p><strong>Shelf talkers</strong> — seen mid-journey, long before the buying moment.</p>
+</li>
+<li class="">
+<p><strong>Cashier scripts</strong> — inconsistent by nature; every staff member delivers them differently, and busy queues kill them entirely.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-separates-real-in-store-media-from-digital-signage">What separates real in-store media from digital signage<a href="https://kb.integratedretail.com/blog/in-store-retail-media#what-separates-real-in-store-media-from-digital-signage" class="hash-link" aria-label="Direct link to What separates real in-store media from digital signage" title="Direct link to What separates real in-store media from digital signage" translate="no">​</a></h2>
+<p>Hanging a TV with a looping video is digital signage. In-store retail media is different in three ways:</p>
+<ol>
+<li class="">
+<p><strong>It reacts to context.</strong> The most valuable campaigns respond to what is happening at the register — recommending an add-on that fits what the customer is already buying.</p>
+</li>
+<li class="">
+<p><strong>It is centrally controlled and locally targeted.</strong> One team schedules campaigns by store group, time window, and objective — a rainy-season bundle in Jakarta, a mall-exclusive offer in Orchard — without touching each screen.</p>
+</li>
+<li class="">
+<p><strong>It is measured.</strong> Campaigns tie back to transactions, so you know what a placement did to attachment rate and basket value, not just how many times it played.</p>
+</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-started-without-a-big-program">Getting started without a big program<a href="https://kb.integratedretail.com/blog/in-store-retail-media#getting-started-without-a-big-program" class="hash-link" aria-label="Direct link to Getting started without a big program" title="Direct link to Getting started without a big program" translate="no">​</a></h2>
+<p>You do not need a brand-funded media network on day one. Most retailers start with their own promotions: cross-sell recommendations at checkout, bundle offers, seasonal moments, and loyalty sign-up prompts. That builds the screen network, the campaign discipline, and the measurement baseline — the assets a paid media program later runs on.</p>
+<p>This is exactly what <a href="https://kb.integratedretail.com/docs/product-documentation/iposit-platform" target="_blank" rel="noopener noreferrer" class="">iPosit</a>, Integrated Retail’s in-store customer display platform, is built for: launching real-time campaigns on customer-facing screens in seconds, localized per store, on top of the POS systems retailers already run. For the two tactical deep-dives, see <a href="https://kb.integratedretail.com/blog/cross-selling-at-checkout" target="_blank" rel="noopener noreferrer" class="">cross-selling at checkout</a> and <a href="https://kb.integratedretail.com/blog/customer-facing-displays-in-retail" target="_blank" rel="noopener noreferrer" class="">customer-facing displays in retail</a>.</p>
+<p><a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Talk to our team</a> to see a live campaign running in your own retail flow.</p>]]></content>
+        <author>
+            <name>Integrated Retail</name>
+            <uri>https://integratedretail.com</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inter-Store Stock Transfer Optimization]]></title>
         <id>https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization</id>
         <link href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization"/>
