@@ -9,6 +9,38 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[AI Demand Forecasting for Fashion Retail]]></title>
+            <link>https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail</link>
+            <guid>https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[AI demand forecasting for fashion retail predicts sell-through at the level where fashion is actually bought: store × product × size × color. That…]]></description>
+            <content:encoded><![CDATA[<p>AI demand forecasting for fashion retail predicts sell-through at the level where fashion is actually bought: store × product × size × color. That granularity is what turns a forecast from a finance report into an operational tool — one that tells you which size curve will break in which store, weeks before it happens.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-fashion-demand-is-genuinely-hard-to-forecast">Why fashion demand is genuinely hard to forecast<a href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail#why-fashion-demand-is-genuinely-hard-to-forecast" class="hash-link" aria-label="Direct link to Why fashion demand is genuinely hard to forecast" title="Direct link to Why fashion demand is genuinely hard to forecast" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p><strong>Short seasons.</strong> By the time a traditional forecast has enough history to be confident, the selling window is half over.</p>
+</li>
+<li class="">
+<p><strong>Size curves.</strong> Companywide the item looks fine; in a specific store, the two sizes that sell are gone and the rest is dead stock.</p>
+</li>
+<li class="">
+<p><strong>Intermittent demand.</strong> Many SKU-store pairs sell zero units most weeks — averages mislead, and naive models either overstock or give up.</p>
+</li>
+<li class="">
+<p><strong>Location personality.</strong> The same dress behaves differently in a mall flagship, an outlet, and a resort store.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-ai-does-differently">What AI does differently<a href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail#what-ai-does-differently" class="hash-link" aria-label="Direct link to What AI does differently" title="Direct link to What AI does differently" translate="no">​</a></h2>
+<p>The practical advance is not one clever model — it is <strong>automatic model selection per SKU and store</strong>. Seasonal items get seasonal treatment, trending items get momentum-aware models, and intermittent sellers get models built for sparse demand. No planner has to tune anything by hand, and the forecast updates with every sell-through cycle.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="size-curve-analysis-the-fashion-specific-win">Size curve analysis: the fashion-specific win<a href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail#size-curve-analysis-the-fashion-specific-win" class="hash-link" aria-label="Direct link to Size curve analysis: the fashion-specific win" title="Direct link to Size curve analysis: the fashion-specific win" translate="no">​</a></h2>
+<p>The highest-value output for apparel teams is usually the size curve view: comparing <strong>actual sales</strong>, the <strong>ideal curve</strong>, and <strong>stock on hand</strong> per store. That comparison surfaces broken size runs while there is still time to fix them — and a broken size run found early is a transfer, not a markdown.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-forecast-to-action">From forecast to action<a href="https://kb.integratedretail.com/blog/ai-demand-forecasting-for-fashion-retail#from-forecast-to-action" class="hash-link" aria-label="Direct link to From forecast to action" title="Direct link to From forecast to action" translate="no">​</a></h2>
+<p>A forecast only earns its keep when it changes a decision. Granular demand forecasts feed directly into <a href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization" target="_blank" rel="noopener noreferrer" class="">inter-store transfer optimization</a> — pairing predicted shortage with existing excess — and into replenishment priorities, so the units you already own end up where they will sell.</p>
+<p>This is the forecasting engine inside <a href="https://kb.integratedretail.com/docs/product-documentation/ioptimo-platform" target="_blank" rel="noopener noreferrer" class="">iOPTIMO</a>, Integrated Retail’s AI inventory and transfer optimization platform, built from 20 years of retail consulting across Asia Pacific. For the full planning picture, see our guide to <a href="https://kb.integratedretail.com/blog/ai-powered-inventory-optimization-for-retail" target="_blank" rel="noopener noreferrer" class="">AI-powered inventory optimization for retail</a>.</p>
+<p>Curious what your own size curves look like? <a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Book a 30-minute walkthrough</a> with your stores, your products, your numbers.</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[AI-Powered Inventory Optimization for Retail]]></title>
             <link>https://kb.integratedretail.com/blog/ai-powered-inventory-optimization-for-retail</link>
             <guid>https://kb.integratedretail.com/blog/ai-powered-inventory-optimization-for-retail</guid>
@@ -147,6 +179,64 @@ versus</p>
 <p>Discover how AI-powered inventory optimization can help your retail business reduce stockouts, lower markdowns, improve transfer decisions, and increase inventory productivity across every store.</p>
 <p>Schedule a 30-minute consultation with our team and see recommendations generated using your stores, your products, and your inventory data.</p>
 <p><strong>See what smarter inventory decisions can do for your retail operation.</strong></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Inter-Store Stock Transfer Optimization]]></title>
+            <link>https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization</link>
+            <guid>https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inter-store stock transfer optimization is the practice of rebalancing inventory you already own: moving units from stores where they sit idle to stores…]]></description>
+            <content:encoded><![CDATA[<p>Inter-store stock transfer optimization is the practice of rebalancing inventory you already own: moving units from stores where they sit idle to stores where they would sell this week. For multi-store retailers it is usually the fastest inventory win available, because it recovers sales and protects margin without spending a single dollar of new purchase budget.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-transfers-beat-reorders">Why transfers beat reorders<a href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization#why-transfers-beat-reorders" class="hash-link" aria-label="Direct link to Why transfers beat reorders" title="Direct link to Why transfers beat reorders" translate="no">​</a></h2>
+<p>When a store runs short on a selling item, the reflex is to reorder. But a reorder takes supplier lead time, ties up new budget, and often lands after the demand moment has passed. Meanwhile the exact units the store needs are frequently sitting in another store in the same network — already bought, already paid for, quietly aging toward a markdown.</p>
+<p>Rebalancing that stock does three things at once:</p>
+<ul>
+<li class="">
+<p><strong>Recovers the sale</strong> at the store that had the demand.</p>
+</li>
+<li class="">
+<p><strong>Rescues the excess</strong> at the store that did not, before it needs a discount.</p>
+</li>
+<li class="">
+<p><strong>Protects purchase budget</strong> for genuinely new demand instead of duplicating stock the network already owns.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="signs-your-network-needs-transfer-optimization">Signs your network needs transfer optimization<a href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization#signs-your-network-needs-transfer-optimization" class="hash-link" aria-label="Direct link to Signs your network needs transfer optimization" title="Direct link to Signs your network needs transfer optimization" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p><strong>Broken size runs</strong> — a store sells out of core sizes while other stores hold full curves of the same item.</p>
+</li>
+<li class="">
+<p><strong>Simultaneous shortage and excess</strong> — the same SKU is at stockout risk in one location and overstocked in another.</p>
+</li>
+<li class="">
+<p><strong>Markdown concentration</strong> — end-of-season discounts cluster in a few stores, which means allocation (not the product) was the problem.</p>
+</li>
+<li class="">
+<p><strong>Spreadsheet transfer planning</strong> — transfers happen only when a planner has time to build the file, not when the demand signal appears.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-optimized-transfer-planning-works">How optimized transfer planning works<a href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization#how-optimized-transfer-planning-works" class="hash-link" aria-label="Direct link to How optimized transfer planning works" title="Direct link to How optimized transfer planning works" translate="no">​</a></h2>
+<p>Manual transfer planning fails not because planners lack skill but because the decision space is huge: every SKU × size × source store × destination store combination. Optimization tackles it in four steps:</p>
+<ol>
+<li class="">
+<p><strong>Pair excess with shortage.</strong> Demand forecasts at store and SKU level identify which locations will run short and which hold more than they can sell.</p>
+</li>
+<li class="">
+<p><strong>Score by urgency.</strong> Not all transfers matter equally — units closest to a lost sale or a markdown move to the top of the queue.</p>
+</li>
+<li class="">
+<p><strong>Build the route plan.</strong> Source, destination, and quantities are laid out on one network view, so logistics cost and effort stay visible.</p>
+</li>
+<li class="">
+<p><strong>Approve in one click.</strong> Planners review a pre-ranked recommendation list and act on dozens of moves in minutes.</p>
+</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="doing-this-with-ai">Doing this with AI<a href="https://kb.integratedretail.com/blog/inter-store-stock-transfer-optimization#doing-this-with-ai" class="hash-link" aria-label="Direct link to Doing this with AI" title="Direct link to Doing this with AI" translate="no">​</a></h2>
+<p>This is one of the core jobs of <a href="https://kb.integratedretail.com/docs/product-documentation/ioptimo-platform" target="_blank" rel="noopener noreferrer" class="">iOPTIMO</a>, Integrated Retail’s AI inventory and transfer optimization platform: it forecasts demand by store, product, size and color, flags shortage and excess with urgency scores, and generates transfer plans that arrive pre-ranked by priority. It sits on top of the POS and inventory systems retailers already run, such as <a href="https://kb.integratedretail.com/docs/product-documentation/retail-pro-prism-platform" target="_blank" rel="noopener noreferrer" class="">Retail Pro Prism</a> and <a href="https://kb.integratedretail.com/docs/product-documentation/cegid-retail-platform" target="_blank" rel="noopener noreferrer" class="">Cegid</a>.</p>
+<p>For the bigger picture of what AI changes across the whole planning cycle — forecasting, risk detection, and recommendations — start with our guide to <a href="https://kb.integratedretail.com/blog/ai-powered-inventory-optimization-for-retail" target="_blank" rel="noopener noreferrer" class="">AI-powered inventory optimization for retail</a>.</p>
+<p>Want to see what a transfer plan looks like on your own network? <a href="mailto:connect@integratedretail.com" target="_blank" rel="noopener noreferrer" class="">Talk to our team</a> for a 30-minute walkthrough with your stores, your products, your numbers.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Choosing A POS System For Fashion Retail]]></title>
