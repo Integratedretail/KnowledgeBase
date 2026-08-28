@@ -2,14 +2,12 @@
 id: health-and-safety-policy-117
 title: "Health and Safety Policy "
 slug: /legal-policies/health-and-safety-policy
-description: "Applicable to Singapore, Malaysia, Thailand and Indonesia | 13 August 2026"
+description: "Integrated Retail Pte Ltd (\"Integrated Retail\") is fully aware of its duties and responsibilities toward the health and safety of its employees…"
 ---
 
 # Health and Safety Policy
 
-Integrated Retail Pte Ltd
-
-Applicable to Singapore, Malaysia, Thailand and Indonesia | 13 August 2026
+Last update: 13 August 2026
 
  
 
@@ -25,7 +23,7 @@ Integrated Retail is committed to the elimination of personal injuries, occupati
 
 - Giving the highest priority to health and safety when weighing commercial, scheduling and technical considerations, including sales commitments and project deadlines;
 
-- Providing information, training and supervision to our employees and contractors so that every installation and service call is carried out safely and in accordance with FootfallCam's approved installation procedures;
+- Providing information, training and supervision to our employees and contractors so that every installation and service call is carried out safely and in accordance with vendor's approved installation procedures;
 
 - Selecting and monitoring our installation contractors on the basis of demonstrated safety competence, not on price or availability alone;
 
@@ -33,19 +31,11 @@ Integrated Retail is committed to the elimination of personal injuries, occupati
 
 - Requiring continuous communication between employees at all levels, so that every person understands their responsibility to report immediately any situation that could jeopardise the well-being of themselves or any other person.
 
- 
-
- 
-
 ## 2. Scope
 
 This policy applies to all employees of Integrated Retail in Singapore, Malaysia, Thailand and Indonesia; to all contractors and subcontractors engaged by us to perform survey, installation, commissioning, maintenance or decommissioning work; to work at our own premises and at customer or third-party sites; and to travel between sites on company business.
 
 Where this policy, local law and the customer's own safety requirements differ, the most stringent requirement applies.
-
- 
-
- 
 
 ## 3. Legal Framework
 
@@ -71,11 +61,7 @@ Indonesia
 
 Law No. 1 of 1970 on Work Safety and Government Regulation No. 50 of 2012 on the Occupational Safety and Health Management System (SMK3). Regulator: Ministry of Manpower.
 
-Our arrangements are aligned with the principles of ISO 45001:2018 and with the installation and safety procedures issued by FootfallCam as our principal supplier.
-
- 
-
- 
+Our arrangements are aligned with the principles of ISO 45001:2018 and with the installation and safety procedures issued by the vendor as our principal supplier.
 
 ## 4. Allocation of Responsibilities
 
@@ -91,7 +77,7 @@ Our arrangements are aligned with the principles of ISO 45001:2018 and with the 
 
 - Must verify the competence, certification and insurance of every contractor before engagement, and monitor their performance on site;
 
-- Must report and investigate incidents and accidents occurring during our work, notify the authority, customer and FootfallCam where required, and share the lessons learned across all four territories;
+- Must report and investigate incidents and accidents occurring during our work, notify the authority, customer and the vendor where required, and share the lessons learned across all four territories;
 
 - Must not permit commercial pressure or customer deadlines to override a safety decision made on site.
 
@@ -112,10 +98,6 @@ Each Country Manager is accountable for implementation of this policy within the
 - Must, in accordance with agreed procedures for accident and incident reporting, report potential and actual hazards to Integrated Retail without delay.
 
 Any worker may stop work and withdraw from an unsafe situation without fear of dismissal, penalty or other detriment.
-
- 
-
- 
 
 ## 5. Key Hazards and Controls
 
@@ -139,29 +121,17 @@ Our risk assessments address, as a minimum:
 
 Where the customer or mall management operates a permit-to-work or contractor induction system, no work commences until the permit is issued and understood by everyone on site.
 
- 
-
- 
-
 ## 6. Training, Competence and Equipment
 
-Every employee and contractor receives an induction covering this policy, our safe systems of work, incident reporting and emergency arrangements before undertaking site work. Task-specific training and certification is required and recorded for work at height, powered access equipment, electrical work and first aid, in line with the requirements of each country. Technical training on FootfallCam products and installation procedures is provided by Integrated Retail and refreshed when the product range or procedure changes.
+Every employee and contractor receives an induction covering this policy, our safe systems of work, incident reporting and emergency arrangements before undertaking site work. Task-specific training and certification is required and recorded for work at height, powered access equipment, electrical work and first aid, in line with the requirements of each country. Technical training on the vendor’s products and installation procedures is provided by Integrated Retail and refreshed when the product range or procedure changes.
 
 Personal protective equipment identified by risk assessment is provided free of charge, inspected before use and replaced when damaged or expired. PPE is the last line of defence, not a substitute for controlling the hazard.
-
- 
-
- 
 
 ## 7. Incident Reporting and Emergency Arrangements
 
 All accidents, injuries, occupational illnesses, near misses and property damage must be reported to the Site Supervisor and Country Manager immediately and recorded in the incident register. Reportable incidents are notified to the relevant authority within the timeframe prescribed by local law, and to the customer and our insurers as required. Every incident is investigated to identify root causes, with corrective actions assigned, tracked and verified.
 
 Before starting work, site teams confirm the location of first-aid provision, fire exits, assembly points and emergency contacts, and comply with the site occupier's emergency procedures.
-
- 
-
- 
 
 ## 8. Review
 
