@@ -24,7 +24,7 @@ In these terms, **"we"**, **"us"** and **"our"** mean Integrated Retail Pte Ltd 
 
 ----------
 
-# Part A — General terms
+## Part A — General terms
 
 ## 1. What we're agreeing
 
@@ -248,7 +248,7 @@ Neither of us is liable for delay or failure caused by events beyond reasonable 
 
 ----------
 
-# Part B — Additional terms for hardware
+## Part B — Additional terms for hardware
 
 **This part applies only where your order includes hardware**. It sits alongside Part A. Where the two differ on a hardware-specific point, Part B applies.
 
