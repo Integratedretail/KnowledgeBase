@@ -7,8 +7,6 @@ description: "Integrated Retail Pte Ltd (\"Integrated Retail\", \"we\", \"us\", 
 
 Last update: 26 August 2026
 
- 
-
 ## 1. About This Statement
 
 Integrated Retail Pte Ltd ("Integrated Retail", "we", "us", "our") supplies, implements, hosts and supports retail technology solutions — including retail management and point-of-sale software, analytics platforms, in-store sensors and related hardware.
@@ -24,33 +22,23 @@ This statement is for information only. It is not legal advice, and it does not 
 ## 2. The Laws That Apply to Us
 
 Market
-
 Law
-
 Regulator
 
 Singapore
-
 Personal Data Protection Act 2012 (PDPA)
-
 Personal Data Protection Commission (PDPC)
 
 Malaysia
-
 Personal Data Protection Act 2010, as amended by the Personal Data Protection (Amendment) Act 2024
-
 Personal Data Protection Commissioner (JPDP)
 
 Thailand
-
 Personal Data Protection Act B.E. 2562 (2019)
-
 Office of the Personal Data Protection Committee (PDPC)
 
 Indonesia
-
 Personal Data Protection Law No. 27 of 2022 (UU PDP)
-
 Personal data protection authority designated under the PDP Law
 
 The four regimes differ in detail but share the same architecture: tell people what you are doing with their data, use it only for that purpose, keep it accurate and secure, don't keep it longer than you need, control where it goes, let people access and correct it, and report breaches promptly.
@@ -171,11 +159,9 @@ All four laws give individuals rights over their personal data. The common core 
 
 Our practice is to support the fullest set of rights across all markets rather than applying a different standard in each.
 
-- 
-Where we are the controller, individuals may contact us directly. We verify identity before responding, and respond within the period set by the applicable law. Where a request is unclear, we may ask for clarification before the response period begins.
+- Where we are the controller, individuals may contact us directly. We verify identity before responding, and respond within the period set by the applicable law. Where a request is unclear, we may ask for clarification before the response period begins.
 
-- 
-Where we are the processor, requests should go to the client who controls the data. If an individual approaches us, we refer them to the client and do not respond substantively without the client's instruction. We provide reasonable assistance — including the technical means to locate, export, correct or delete records — so the client can meet its own deadline.
+- Where we are the processor, requests should go to the client who controls the data. If an individual approaches us, we refer them to the client and do not respond substantively without the client's instruction. We provide reasonable assistance — including the technical means to locate, export, correct or delete records — so the client can meet its own deadline.
 
 ** **
 
@@ -187,17 +173,13 @@ All four laws restrict cross-border transfers in broadly the same way: the recei
 
 Our approach is to:
 
-- 
-keep client data within the region wherever the solution architecture allows;
+- keep client data within the region wherever the solution architecture allows;
 
-- 
-confirm, before a transfer, where the receiving party stores and accesses data;
+- confirm, before a transfer, where the receiving party stores and accesses data;
 
-- 
-put contractual data protection commitments in place with vendors and subprocessors;
+- put contractual data protection commitments in place with vendors and subprocessors;
 
-- 
-disclose data locations and subprocessors to clients on request, so they can complete their own transfer assessments.
+- disclose data locations and subprocessors to clients on request, so they can complete their own transfer assessments.
 
 ** **
 
@@ -249,26 +231,19 @@ Deadlines and thresholds in this section are current as at the date of this stat
 
 Compliance for a deployed solution is a shared responsibility. As controller, our clients are responsible for:
 
-- 
-establishing the lawful basis for the processing carried out in their systems, and obtaining consent where required;
+- establishing the lawful basis for the processing carried out in their systems, and obtaining consent where required;
 
-- 
-providing notices to their customers and employees, including in-store signage where sensors or cameras are in use;
+- providing notices to their customers and employees, including in-store signage where sensors or cameras are in use;
 
-- 
-configuring retention settings and user access rights appropriately;
+- configuring retention settings and user access rights appropriately;
 
-- 
-carrying out access reviews — we recommend at least annually — and promptly removing accounts that are no longer needed;
+- carrying out access reviews — we recommend at least annually — and promptly removing accounts that are no longer needed;
 
-- 
-responding to requests from individuals relating to their data, with our support;
+- responding to requests from individuals relating to their data, with our support;
 
-- 
-notifying regulators and individuals of breaches affecting their data, with our support;
+- notifying regulators and individuals of breaches affecting their data, with our support;
 
-- 
-instructing us in writing where processing beyond the agreed scope is required.
+- instructing us in writing where processing beyond the agreed scope is required.
 
 We do not create, modify or delete client data without the client's instruction.
 
