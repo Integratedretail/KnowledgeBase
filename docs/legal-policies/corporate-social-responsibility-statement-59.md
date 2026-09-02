@@ -5,13 +5,9 @@ slug: /legal-policies/corporate-social-responsibility-statement
 description: "Integrated Retail Pte Ltd provides retail software and analytics solutions to businesses across Singapore, Malaysia, Thailand and Indonesia. Our…"
 ---
 
-# Corporate Social Responsibility Statement
-
 Last update: 21 August 2026
 
- 
-
- 
+----------
 
 Integrated Retail Pte Ltd provides retail software and analytics solutions to businesses across Singapore, Malaysia, Thailand and Indonesia. Our headquarters is in Singapore, and the standards we set there apply across every market we serve.
 
@@ -21,41 +17,40 @@ We believe a technology company is accountable for more than the products it shi
 
 We are a regional team, and we want working here to be worth it. We commit to:
 
-- Fair pay, lawful working hours, and terms that meet or exceed local employment law in each market
-
-- Hiring and promoting on merit, without discrimination on the basis of race, religion, gender, age, nationality or disability
-
-- A safe workplace — in our offices, in our warehouses, and on customer sites where our teams install and service equipment
-
-- Ongoing training and development, so our people grow with the business
-
-- A workplace free from harassment and bullying, with a clear route to raise concerns
+-   Fair pay, lawful working hours, and terms that meet or exceed local employment law in each market
+    
+-   Hiring and promoting on merit, without discrimination on the basis of race, religion, gender, age, nationality or disability
+    
+-   A safe workplace — in our offices, in our warehouses, and on customer sites where our teams install and service equipment
+    
+-   Ongoing training and development, so our people grow with the business
+    
+-   A workplace free from harassment and bullying, with a clear route to raise concerns
+    
 
 ## Responsible Use of Data and Technology
 
 Our solutions handle business and operational data, and our analytics products measure how physical spaces are used. We take that responsibility seriously.
 
-- We comply with data protection law in every market we operate in, including Singapore's PDPA, Malaysia's PDPA, Thailand's PDPA and Indonesia's Personal Data Protection Law
-
-- Our analytics solutions are designed to measure patterns and volumes, not to identify individuals
-
-- We collect only the data our solutions need to function, and we help our customers configure deployments in line with their own privacy obligations
-
-- We maintain appropriate security controls to protect the data entrusted to us
+-   We comply with data protection law in every market we operate in, including Singapore's PDPA, Malaysia's PDPA, Thailand's PDPA and Indonesia's Personal Data Protection Law
+    
+-   Our analytics solutions are designed to measure patterns and volumes, not to identify individuals
+    
+-   We collect only the data our solutions need to function, and we help our customers configure deployments in line with their own privacy obligations
+    
+-   We maintain appropriate security controls to protect the data entrusted to us
+    
 
 ## Ethical Business Conduct
 
-- 
-We do not offer, give or accept bribes, kickbacks or improper payments in any form, in any market
-
-- 
-We compete fairly and represent our products honestly
-
-- 
-We respect the confidentiality of our customers' commercial information
-
-- 
-We expect the same standards from the suppliers, distributors and partners we work with
+-   We do not offer, give or accept bribes, kickbacks or improper payments in any form, in any market
+    
+-   We compete fairly and represent our products honestly
+    
+-   We respect the confidentiality of our customers' commercial information
+    
+-   We expect the same standards from the suppliers, distributors and partners we work with
+    
 
 ## Our Customers and Partners
 
@@ -71,8 +66,4 @@ We manage the environmental impact of our operations, from electronic waste and 
 
 ## Holding Ourselves to It
 
-We review this statement and our practices at least annually. If you have a concern about any of the commitments above, we want to hear about it — contact us at connect@integratedretail.com.
-
-**
-
-**
+We review this statement and our practices at least annually. If you have a concern about any of the commitments above, we want to hear about it — contact us at connect@integratedretail.com
