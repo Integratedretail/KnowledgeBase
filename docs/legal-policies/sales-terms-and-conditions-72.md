@@ -2,34 +2,27 @@
 id: sales-terms-and-conditions-72
 title: "Sales Terms and Conditions"
 slug: /legal-policies/sales-terms-and-conditions
-description: "These terms apply to everything we sell — software subscriptions, licences, implementation and professional services, support, and hardware. Part A…"
+description: "These terms apply to everything we sell — software subscriptions, licences, implementation and professional services, support, and hardware.   Part A…"
 ---
-
-Sales Terms & Conditions
 
 Last update: 17 August 2026
 
- 
-
- 
+----------
 
 ## How this document works
 
 These terms apply to everything we sell — software subscriptions, licences, implementation and professional services, support, and hardware.
 
-- 
-Part A applies to every order.
-
-- 
-Part B applies only where an order includes hardware. If your order is software-only, Part B doesn't apply to you.
+-   **Part A** applies to every order.
+    
+-   **Part B** applies only where an order includes hardware. If your order is software-only, Part B doesn't apply to you.
+    
 
 By signing a quotation or order form, issuing a purchase order, or using any solution we supply, you accept these terms.
 
-In these terms, "we", "us" and "our" mean Integrated Retail Pte Ltd (UEN [200602440C]), a company incorporated in Singapore with its registered office at [registered address]. "You" and "your" mean the organisation named on the order, including the sites, outlets and affiliates listed on it.
+In these terms, **"we"**, **"us"** and **"our"** mean Integrated Retail Pte Ltd (UEN [200602440C]), a company incorporated in Singapore with its registered office at [registered address]. **"You"** and **"your"** mean the organisation named on the order, including the sites, outlets and affiliates listed on it.
 
- 
-
- 
+----------
 
 # Part A — General terms
 
@@ -45,33 +38,14 @@ In these terms, "we", "us" and "our" mean Integrated Retail Pte Ltd (UEN [200602
 
 ## 2. Definitions
 
-Term
-
-Meaning
-
-Solution
-
-The software, hardware, services and support described in your order confirmation.
-
-Software
-
-Any software we license to you, whether hosted by us or our vendors, installed on your systems, or embedded in hardware.
-
-Subscription
-
-A time-limited right to use a Solution, including hosting, updates and support, for the fees and term stated in the order.
-
-Support Services
-
-The support and maintenance we provide for a Solution, at the tier and for the term stated in your order. 
-
-Third-Party Product
-
-Any software, hardware or service produced by another vendor that we resell or make available to you, including FootfallCam.
-
-Your Data
-
-Data you upload, generate or capture through the Solution, including transaction, footfall, staffing and customer data.
+|Term|Meaning|
+|--|--|
+|Solution|The software, hardware, services and support described in your order confirmation.|
+|Software|Any software we license to you, whether hosted by us or our vendors, installed on your systems, or embedded in hardware.|
+|Subscription|A time-limited right to use a Solution, including hosting, updates and support, for the fees and term stated in the order.|
+|Support Services|The support and maintenance we provide for a Solution, at the tier and for the term stated in your order.|
+|Third-Party Product|Any software, hardware or service produced by another vendor that we resell or make available to you, including FootfallCam.|
+|Your Data|Data you upload, generate or capture through the Solution, including transaction, footfall, staffing and customer data.|
 
 ## 3. Your licence to use the Software
 
@@ -83,33 +57,35 @@ Data you upload, generate or capture through the Solution, including transaction
 
 3.4 You may not:
 
-- copy, modify, translate, decompile or reverse engineer the Software, except where local law expressly allows it;
-
-- resell, sublicense, rent or use the Software to provide a service to any third party without our written consent;
-
-- share login credentials, or let more users access the Software than your order allows;
-
-- probe, load-test or penetration-test the Software without our prior written consent; or
-
-- use the Software unlawfully, including for surveillance or profiling prohibited in the country of use.
+-   copy, modify, translate, decompile or reverse engineer the Software, except where local law expressly allows it;
+    
+-   resell, sublicense, rent or use the Software to provide a service to any third party without our written consent;
+    
+-   share login credentials, or let more users access the Software than your order allows;
+    
+-   probe, load-test or penetration-test the Software without our prior written consent; or
+    
+-   use the Software unlawfully, including for surveillance or profiling prohibited in the country of use.
+    
 
 3.5 You're responsible for your users' actions and for keeping credentials secure. Tell us promptly if you think an account has been compromised or the Software is being used without authorisation.
 
 ## 4. Fees, tax and payment
 
-4.1 Payment in advance is our standard term. Unless your order confirmation expressly states agreed credit terms, all orders are payable in full in advance by bank transfer or credit card. We begin provisioning, delivery, scheduling or renewal once cleared funds are received.
+4.1 **Payment in advance is our standard term**. Unless your order confirmation expressly states agreed credit terms, all orders are payable in full in advance by bank transfer or credit card. We begin provisioning, delivery, scheduling or renewal once cleared funds are received.
 
-4.2 Credit terms are by application only. You may apply separately for a credit account. Applications are subject to our assessment and approval, and approval isn't guaranteed. Where we approve credit, the terms — normally 30, 60 or 90 days from invoice date — and the credit limit are confirmed in writing and stated on your order confirmation. Credit terms apply only to the account, limit and period we've approved, and don't carry over to other entities in your group unless we say so. We may review, reduce, suspend or withdraw credit terms at any time, including after an order is confirmed. If we withdraw them, invoices already issued remain payable on their existing terms and further orders revert to payment in advance.
+4.2 **Credit terms are by application only**. You may apply separately for a credit account. Applications are subject to our assessment and approval, and approval isn't guaranteed. Where we approve credit, the terms — normally 30, 60 or 90 days from invoice date — and the credit limit are confirmed in writing and stated on your order confirmation. Credit terms apply only to the account, limit and period we've approved, and don't carry over to other entities in your group unless we say so. We may review, reduce, suspend or withdraw credit terms at any time, including after an order is confirmed. If we withdraw them, invoices already issued remain payable on their existing terms and further orders revert to payment in advance.
 
 4.3 Subscription and support fees are invoiced in advance for each term. Implementation and professional services are invoiced as set out in the order — typically on milestones or monthly in arrears.
 
 4.4 Fees are quoted in Singapore dollars unless stated otherwise, and exclude:
 
-- GST, SST, VAT, PPN and any similar tax, at the rate current when we invoice;
-
-- bank transfer fees, intermediary bank charges and card processing fees; and
-
-- travel, accommodation and out-of-pocket costs for on-site work, where the order says these are chargeable.
+-   GST, SST, VAT, PPN and any similar tax, at the rate current when we invoice;
+    
+-   bank transfer fees, intermediary bank charges and card processing fees; and
+    
+-   travel, accommodation and out-of-pocket costs for on-site work, where the order says these are chargeable.
+    
 
 4.5 Please pay the full invoice amount. If bank charges are deducted at your end, the shortfall counts as unpaid. Where local law requires you to withhold tax — as it may on software, licence or service fees in Thailand, Indonesia or Malaysia — please gross up the payment so we receive the invoiced amount, and send us the withholding certificate.
 
@@ -129,15 +105,16 @@ Data you upload, generate or capture through the Solution, including transaction
 
 To deliver the Solution we rely on you to:
 
-- give us accurate information, and timely access to the people, systems and sites we need;
-
-- provide the network, internet connectivity, hardware, browsers and third-party systems the Solution requires;
-
-- nominate a project contact with authority to make decisions and sign off milestones;
-
-- obtain any consents, permits or approvals needed for your use of the Solution; and
-
-- keep your own systems, integrations and credentials secure and supported.
+-   give us accurate information, and timely access to the people, systems and sites we need;
+    
+-   provide the network, internet connectivity, hardware, browsers and third-party systems the Solution requires;
+    
+-   nominate a project contact with authority to make decisions and sign off milestones;
+    
+-   obtain any consents, permits or approvals needed for your use of the Solution; and
+    
+-   keep your own systems, integrations and credentials secure and supported.
+    
 
 If a delay or additional cost arises because these aren't in place, the timeline and fees may change.
 
@@ -247,35 +224,33 @@ Neither of us is liable for delay or failure caused by events beyond reasonable 
 
 ## 17. General
 
-17.1 Assignment. You may not transfer your rights under an order without our written consent. We may assign or subcontract, including to a group company or a local service partner in the region, and remain responsible for their performance.
+17.1 **Assignment**. You may not transfer your rights under an order without our written consent. We may assign or subcontract, including to a group company or a local service partner in the region, and remain responsible for their performance.
 
-17.2 Notices. Notices go by email to the addresses on the order confirmation, or by courier or registered post to the registered office, and are deemed received the next business day for email or on proof of delivery for post.
+17.2 **Notices**. Notices go by email to the addresses on the order confirmation, or by courier or registered post to the registered office, and are deemed received the next business day for email or on proof of delivery for post.
 
-17.3 Compliance. Each of us will comply with applicable anti-bribery, anti-corruption, sanctions and export control laws. You won't use the Solution unlawfully or re-export it to a restricted party or territory.
+17.3 **Compliance**. Each of us will comply with applicable anti-bribery, anti-corruption, sanctions and export control laws. You won't use the Solution unlawfully or re-export it to a restricted party or territory.
 
-17.4 Language. These terms are written in English. Where local law requires a translation — as Indonesia's Law 24/2009 does — we'll sign a bilingual version, and the English text governs interpretation so far as the law allows.
+17.4 **Language**. These terms are written in English. Where local law requires a translation — as Indonesia's Law 24/2009 does — we'll sign a bilingual version, and the English text governs interpretation so far as the law allows.
 
-17.5 Publicity. Neither of us will use the other's name or logo in marketing without consent, though we may list you as a customer.
+17.5 **Publicity**. Neither of us will use the other's name or logo in marketing without consent, though we may list you as a customer.
 
-17.6 Changes to these terms. We may publish updated terms from time to time. The version in force when we confirm your order applies to that order, and to its renewals from the next renewal date after we notify you.
+17.6 **Changes to these terms**. We may publish updated terms from time to time. The version in force when we confirm your order applies to that order, and to its renewals from the next renewal date after we notify you.
 
-17.7 Other. These terms and the order confirmation are the whole agreement between us and replace earlier discussions. If a provision is unenforceable it's severed and the rest stands. A delay in enforcing a right isn't a waiver of it. Nothing here creates a partnership, agency or employment relationship. Except for our vendors in relation to sections 10, 13, 14 and 15, no one other than us and you can enforce these terms.
+17.7 **Other**. These terms and the order confirmation are the whole agreement between us and replace earlier discussions. If a provision is unenforceable it's severed and the rest stands. A delay in enforcing a right isn't a waiver of it. Nothing here creates a partnership, agency or employment relationship. Except for our vendors in relation to sections 10, 13, 14 and 15, no one other than us and you can enforce these terms.
 
 ## 18. Law and disputes
 
 18.1 Singapore law governs these terms.
 
-18.2 For technical disputes — about system behaviour, data accuracy or data processing, for instance — we'll refer the matter to an independent expert appointed jointly, or nominated by the Singapore Computer Society if we can't agree. The expert acts as an expert, not an arbitrator, their decision is final, and we'll share the cost equally unless the expert decides otherwise. 
+18.2 For technical disputes — about system behaviour, data accuracy or data processing, for instance — we'll refer the matter to an independent expert appointed jointly, or nominated by the Singapore Computer Society if we can't agree. The expert acts as an expert, not an arbitrator, their decision is final, and we'll share the cost equally unless the expert decides otherwise.
 
 18.3 For anything else, we'll first try to resolve it through discussion between senior representatives within 30 days. Failing that, the dispute goes to arbitration administered by the Singapore International Arbitration Centre, before a single arbitrator, seated in Singapore, in English. Either of us may still go to court for urgent injunctive relief or to recover an undisputed debt.
 
- 
-
- 
+----------
 
 # Part B — Additional terms for hardware
 
-This part applies only where your order includes hardware. It sits alongside Part A. Where the two differ on a hardware-specific point, Part B applies.
+**This part applies only where your order includes hardware**. It sits alongside Part A. Where the two differ on a hardware-specific point, Part B applies.
 
 ## B1. Delivery and import
 
@@ -324,7 +299,3 @@ B5.3 Installation is scheduled by mutual agreement based on engineer availabilit
 B5.4 If anything about a completed installation isn't right, tell us within 7 days. After that the job is treated as closed and further work follows the normal sales process.
 
 B5.5 Detailed installation charges, call-out rates and site requirements are set out in our Installation Terms and Conditions and the applicable rate card.
-
-**
-
-**
