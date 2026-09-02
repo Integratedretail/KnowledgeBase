@@ -5,13 +5,9 @@ slug: /legal-policies/privacy-policy
 description: "Integrated Retail Pte Ltd (\"Integrated Retail\", \"we\", \"us\", \"our\") provides retail technology solutions — including retail management and point-of-sale…"
 ---
 
-Privacy Policy
-
 Last update: 24 August 2026
 
- 
-
- 
+----------
 
 ## 1. About This Policy
 
@@ -19,153 +15,119 @@ Integrated Retail Pte Ltd ("Integrated Retail", "we", "us", "our") provides reta
 
 This Privacy Policy explains what personal data we collect, why we collect it, how we protect it, and what choices you have. It applies to:
 
-- our website and online forms;
-
-- our sales, marketing, procurement and recruitment activities;
-
-- the software, hardware and support services we deliver to our clients.
+-   our website and online forms;
+    
+-   our sales, marketing, procurement and recruitment activities;
+    
+-   the software, hardware and support services we deliver to our clients.
+    
 
 We operate primarily in Singapore, Thailand, Indonesia and Malaysia, and we aim to meet the requirements of the data protection laws in each of these markets, including Singapore's Personal Data Protection Act, Malaysia's Personal Data Protection Act, Thailand's Personal Data Protection Act and Indonesia's Personal Data Protection Law.
 
-** **
+  
 
 ## 2. Our Two Roles: Controller and Processor
 
 It helps to be clear about which "hat" we are wearing, because it determines who you should contact about your data.
 
-We act as a Data Controller when we decide why and how personal data is used. This covers data about our own clients, prospects, business partners, website visitors, job applicants and employees — for example, the contact details of a client's project manager.
+**We act as a Data Controller** when we decide why and how personal data is used. This covers data about our own clients, prospects, business partners, website visitors, job applicants and employees — for example, the contact details of a client's project manager.
 
-We act as a Data Processor when we handle personal data on behalf of a client, following their instructions. This covers data held inside the systems we implement, host or support for them — for example, a retailer's customer loyalty records, staff records or store analytics data.
+**We act as a Data Processor** when we handle personal data on behalf of a client, following their instructions. This covers data held inside the systems we implement, host or support for them — for example, a retailer's customer loyalty records, staff records or store analytics data.
 
 If your personal data sits inside a system we run for one of our clients, that client is the Data Controller. Please direct your request to them in the first instance; we will support them in responding to you.
 
-** **
+  
 
 ## 3. Key Terms
 
-Term
+|Term|What it means|
+|--|--|
+|Personal data|Any information that identifies a living individual, directly or indirectly — such as a name, email address, phone number, ID number, photo or online identifier.|
+|Data Controller|The organisation that decides why and how personal data is used.|
+|Data Processor|An organisation that processes personal data on behalf of, and under the instructions of, a Data Controller.|
+|Data Subject|The individual the personal data is about.|
+|Processing|Anything done with personal data — collecting, storing, using, sharing, deleting and so on.|
 
-What it means
-
-Personal data
-
-Any information that identifies a living individual, directly or indirectly — such as a name, email address, phone number, ID number, photo or online identifier.
-
-Data Controller
-
-The organisation that decides why and how personal data is used.
-
-Data Processor
-
-An organisation that processes personal data on behalf of, and under the instructions of, a Data Controller.
-
-Data Subject
-
-The individual the personal data is about.
-
-Processing
-
-Anything done with personal data — collecting, storing, using, sharing, deleting and so on.
-
-** **
+  
 
 ## 4. What Personal Data We Collect
 
 We only collect what we need. Depending on your relationship with us, this may include:
 
-Business contact and account information Name, job title, company name, business email address, business phone number, business address, and login credentials for the platforms we provide (passwords are stored in hashed form).
+**Business contact and account information** Name, job title, company name, business email address, business phone number, business address, and login credentials for the platforms we provide (passwords are stored in hashed form).
 
-Commercial and support information Enquiries, quotations, contracts, purchase orders, invoices and payment records; support tickets, correspondence, call and meeting notes, and remote-support session logs.
+**Commercial and support information** Enquiries, quotations, contracts, purchase orders, invoices and payment records; support tickets, correspondence, call and meeting notes, and remote-support session logs.
 
-Technical and usage information IP addresses, device and browser details, system and application logs, error diagnostics, and records of who accessed which system and when.
+**Technical and usage information** IP addresses, device and browser details, system and application logs, error diagnostics, and records of who accessed which system and when.
 
-Website information Pages visited, referring links and cookie data. See section 10.
+**Website information** Pages visited, referring links and cookie data. See section 10.
 
-Recruitment information CVs, work history, qualifications and references, where you apply for a role with us.
+**Recruitment information** CVs, work history, qualifications and references, where you apply for a role with us.
 
-Client system data (processed on our clients' behalf) When we implement, host or support a solution, the system may contain personal data belonging to our client's customers or staff — for example, loyalty member details, transaction records, staff rosters, or data generated by in-store sensors and counting devices. We access this data only as needed to deliver the service.
+**Client system data (processed on our clients' behalf)** When we implement, host or support a solution, the system may contain personal data belonging to our client's customers or staff — for example, loyalty member details, transaction records, staff rosters, or data generated by in-store sensors and counting devices. We access this data only as needed to deliver the service.
 
-A note on in-store sensors and cameras. Some hardware solutions we supply use overhead sensors to count visitors and measure store traffic. These are designed to produce aggregated, anonymous counts rather than to identify individuals, and any device identifiers collected are typically converted into an irreversible hashed value. Where a solution records short video samples for accuracy verification, this is governed by the manufacturer's privacy documentation and our client's own notices to shoppers. We can provide the relevant vendor documentation on request.
+**A note on in-store sensors and cameras**. Some hardware solutions we supply use overhead sensors to count visitors and measure store traffic. These are designed to produce aggregated, anonymous counts rather than to identify individuals, and any device identifiers collected are typically converted into an irreversible hashed value. Where a solution records short video samples for accuracy verification, this is governed by the manufacturer's privacy documentation and our client's own notices to shoppers. We can provide the relevant vendor documentation on request.
 
 We do not intentionally collect sensitive personal data (such as health, religious or biometric identification data) unless required by law or expressly agreed with a client under appropriate safeguards.
 
-** **
+  
 
 ## 5. How We Collect Personal Data
 
-- Directly from you — when you contact us, request a demo, sign a contract, register for an account, attend an event, raise a support ticket, or apply for a job.
+-   **Directly from you** — when you contact us, request a demo, sign a contract, register for an account, attend an event, raise a support ticket, or apply for a job.
+    
+-   **Automatically** — through our website, and through logs and diagnostics generated by the systems and devices we provide.
+    
+-   **From our clients** — when they upload data into, or configure, a system we host or support for them.
+    
+-   **From third parties** — such as our resellers, technology partners, publicly available business sources and, for recruitment, referees you have named.
+    
 
-- Automatically — through our website, and through logs and diagnostics generated by the systems and devices we provide.
-
-- From our clients — when they upload data into, or configure, a system we host or support for them.
-
-- From third parties — such as our resellers, technology partners, publicly available business sources and, for recruitment, referees you have named.
-
-** **
+  
 
 ## 6. Why We Use Personal Data
 
 We use personal data to:
 
-Purpose
-
-Examples
-
-Deliver our products and services
-
-Implementation, configuration, hosting, licensing, maintenance and technical support.
-
-Manage our client relationships
-
-Account administration, contract management, invoicing and payment collection.
-
-Communicate with you
-
-Responding to enquiries, sending service notices, system alerts, scheduled reports and release updates.
-
-Improve our solutions
-
-Diagnosing faults, tuning system accuracy, and analysing usage in aggregate form.
-
-Keep systems secure
-
-Access control, monitoring, audit logging, and preventing fraud or unauthorised access.
-
-Marketing
-
-Sending information about our products and events, where you have consented or where the law otherwise permits. You can opt out at any time.
-
-Meet legal obligations
-
-Tax, accounting, regulatory reporting and responding to lawful requests from authorities.
+|Purpose|Examples|
+|--|--|
+|Deliver our products and services|Implementation, configuration, hosting, licensing, maintenance and technical support.|
+|Manage our client relationships|Account administration, contract management, invoicing and payment collection.|
+|Communicate with you|Responding to enquiries, sending service notices, system alerts, scheduled reports and release updates.|
+|Improve our solutions|Diagnosing faults, tuning system accuracy, and analysing usage in aggregate form.|
+|Keep systems secure|Access control, monitoring, audit logging, and preventing fraud or unauthorised access.|
+|Marketing|Sending information about our products and events, where you have consented or where the law otherwise permits. You can opt out at any time.|
+|Meet legal obligations|Tax, accounting, regulatory reporting and responding to lawful requests from authorities.|
 
 Where the law requires consent, we will ask for it, and you may withdraw it at any time. Otherwise, we rely on grounds such as the performance of a contract, compliance with a legal obligation, or our legitimate business interests, provided those interests are not overridden by your rights.
 
-** **
+  
 
 ## 7. Automated Technologies and AI
 
 Some of the solutions we supply use artificial intelligence or automated analytics — for example, to count footfall, forecast demand or flag unusual activity. Where we or our vendors use these technologies:
 
-- outputs are designed to be aggregated and anonymous, not to identify named individuals;
-
-- human review is applied where accuracy or fairness matters, such as when verifying counting accuracy;
-
-- we do not make decisions that produce legal or similarly significant effects on an individual purely by automated means, without human involvement.
+-   outputs are designed to be **aggregated and anonymous**, not to identify named individuals;
+    
+-   **human review** is applied where accuracy or fairness matters, such as when verifying counting accuracy;
+    
+-   we do **not** make decisions that produce legal or similarly significant effects on an individual purely by automated means, without human involvement.
+    
 
 If you would like to know more about how a specific solution works, please contact us.
 
-** **
+  
 
 ## 8. Who We Share Personal Data With
 
 We do not sell personal data. We share it only where necessary, and only with:
 
-- Our technology vendors and partners — the software and hardware providers whose products we resell, implement or support, so that licensing, updates and vendor-level support can be provided.
+-   **Our technology vendors and partners** — the software and hardware providers whose products we resell, implement or support, so that licensing, updates and vendor-level support can be provided.
+    
+-   **The client the data belongs to** — where we hold personal data on behalf of a client, we make it available only to that client and the users they have authorised. Each client's environment and data are kept separate, and we never share one client's data with another client.
+    
 
-- The client the data belongs to — where we hold personal data on behalf of a client, we make it available only to that client and the users they have authorised. Each client's environment and data are kept separate, and we never share one client's data with another client. 
-
-- ** **
+  
 
 ## 9. International Transfers
 
@@ -173,84 +135,84 @@ We are headquartered in Singapore and operate across Southeast Asia. Personal da
 
 Where we transfer personal data across borders, we take reasonable steps to ensure it receives a standard of protection comparable to that required in the country of origin, including through contractual commitments with the recipient.
 
-** **
+  
 
 ## 10. Cookies and Our Website
 
 Our website uses cookies and similar technologies to keep the site working properly, remember your preferences, and understand how the site is used so we can improve it. You can control or delete cookies through your browser settings; some features may not work as intended if you disable them.
 
-** **
+  
 
 ## 11. How We Protect Personal Data
 
 We maintain organisational, technical and physical safeguards appropriate to the sensitivity of the data, including:
 
-- Role-based access control — access is granted on a "need to know" and "least privilege" basis.
-
-- Password protection — passwords are stored using irreversible hashing; password resets are sent to the registered email address rather than disclosing credentials.
-
-- Encryption — data is encrypted in transit, and at rest where supported by the platform.
-
-- Segregation — client environments and data are kept logically separated.
-
-- Access and activity logging — records are kept of access to systems containing personal data, and reviewed periodically.
-
-- Secure remote support — support access uses controlled, authenticated channels, and is provided only for the purpose of assisting the client.
-
-- Staff training and confidentiality — our people are trained on data protection and bound by confidentiality obligations.
-
-- Vendor due diligence — we assess the security and privacy practices of the vendors and subprocessors we work with.
+-   **Role-based access control** — access is granted on a "need to know" and "least privilege" basis.
+    
+-   **Password protection** — passwords are stored using irreversible hashing; password resets are sent to the registered email address rather than disclosing credentials.
+    
+-   **Encryption** — data is encrypted in transit, and at rest where supported by the platform.
+    
+-   **Segregation** — client environments and data are kept logically separated.
+    
+-   **Access and activity logging** — records are kept of access to systems containing personal data, and reviewed periodically.
+    
+-   **Secure remote support** — support access uses controlled, authenticated channels, and is provided only for the purpose of assisting the client.
+    
+-   **Staff training and confidentiality** — our people are trained on data protection and bound by confidentiality obligations.
+    
+-   **Vendor due diligence** — we assess the security and privacy practices of the vendors and subprocessors we work with.
+    
 
 No system can be guaranteed to be completely secure, but we review and improve our controls on an ongoing basis.
 
-** **
+  
 
 ## 12. Data Breaches
 
 If a personal data breach occurs, we will investigate promptly, take steps to contain and remedy it, and notify the affected client, the relevant regulator and affected individuals where required by law and within the applicable timeframes. Where we act as a processor, we will notify the client without undue delay so they can meet their own obligations.
 
-** **
+  
 
 ## 13. Your Rights
 
 Subject to the law that applies to you, you have the right to:
 
-- Access — ask for a copy of the personal data we hold about you.
-
-- Correct — ask us to fix data that is inaccurate or incomplete.
-
-- Withdraw consent — where we rely on your consent, withdraw it at any time (this may affect our ability to provide certain services).
-
-- Delete — ask us to erase your personal data, where we are not required to keep it.
-
-- Restrict or object — ask us to limit or stop certain uses of your data, including direct marketing.
-
-- Portability — ask for your data in a structured, commonly used, machine-readable format, or ask us to transfer it to another provider, where applicable.
-
-- Complain — lodge a complaint with the data protection authority in your country.
+-   **Access** — ask for a copy of the personal data we hold about you.
+    
+-   **Correct** — ask us to fix data that is inaccurate or incomplete.
+    
+-   **Withdraw consent** — where we rely on your consent, withdraw it at any time (this may affect our ability to provide certain services).
+    
+-   **Delete** — ask us to erase your personal data, where we are not required to keep it.
+    
+-   **Restrict or object** — ask us to limit or stop certain uses of your data, including direct marketing.
+    
+-   **Portability** — ask for your data in a structured, commonly used, machine-readable format, or ask us to transfer it to another provider, where applicable.
+    
+-   **Complain** — lodge a complaint with the data protection authority in your country.
+    
 
 To exercise any of these rights, contact us using the details in section 16. We may ask for information to verify your identity, and we will respond within the timeframe set by the applicable law (generally within 30 days). If a request is unclear, we may ask for clarification before the response period begins. A reasonable fee may apply where the law allows, for example for repeated or excessive requests.
 
 If your request concerns data held in a system we operate for one of our clients, we will refer you to that client, who is the Data Controller.
 
-** **
+  
 
 ## 14. Children
 
 Our products and services are intended for business use and are not directed at children. We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us and we will delete it.
 
-** **
+  
 
 ## 15. Changes to This Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our services, technology or the law. The latest version will always be published on our website, with the "Last updated" date shown at the top. Where changes are significant, we will take reasonable steps to notify you.
 
-** **
+  
 
 ## 16. Contact Us
 
 If you have questions about this policy, want to exercise your rights, or wish to make a complaint, please contact our Data Protection Officer: connect@integratedretail.com
 
 We will acknowledge your enquiry and aim to resolve it promptly. If you are not satisfied with our response, you may contact the data protection authority in your jurisdiction — for example, the Personal Data Protection Commission (Singapore), the Personal Data Protection Department (Malaysia), the Office of the Personal Data Protection Committee (Thailand), or the relevant supervisory authority in Indonesia.
-
- 
