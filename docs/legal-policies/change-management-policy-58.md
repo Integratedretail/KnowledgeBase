@@ -168,6 +168,7 @@ Retail is seasonal, and our customers cannot absorb disruption during their busi
  - The Company observes **change freeze periods** during peak retail   
    trading, during which only Emergency changes proceed. These typically
    include:
+
     -   the year-end and New Year trading period;
     
     -   Chinese New Year;
