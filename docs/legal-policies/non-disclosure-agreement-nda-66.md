@@ -2,18 +2,16 @@
 id: non-disclosure-agreement-nda-66
 title: "Non-Disclosure Agreement (NDA)"
 slug: /legal-policies/non-disclosure-agreement-nda
-description: "(1) INTEGRATED RETAIL PTE LTD, incorporated in Singapore (UEN 200602440C), of 26 Sin Ming Lane, #04-114, Midview City, Singapore 573971 (\"IR\"); and"
+description: "Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms."
 ---
 
-MUTUAL NON-DISCLOSURE AGREEMENT
+> ***Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms.***
 
- 
+**THIS AGREEMENT** is made on **[DATE]** between:
 
-THIS AGREEMENT is made on [DATE] between:
+(1) **INTEGRATED RETAIL PTE LTD**, incorporated in Singapore (UEN 200602440C), of 26 Sin Ming Lane, #04-114, Midview City, Singapore 573971 ("**IR**"); and
 
-(1) INTEGRATED RETAIL PTE LTD, incorporated in Singapore (UEN 200602440C), of 26 Sin Ming Lane, #04-114, Midview City, Singapore 573971 ("IR"); and
-
-(2) [CUSTOMER LEGAL NAME], incorporated in [COUNTRY] (registration number [REG. NO.]), of [REGISTERED ADDRESS] (the "Customer"),
+(2) **[CUSTOMER LEGAL NAME]**, incorporated in [COUNTRY] (registration number [REG. NO.]), of [REGISTERED ADDRESS] (the "**Customer**"),
 
 each a "Party" and together the "Parties".
 
@@ -21,9 +19,9 @@ IR supplies software and technology solutions and related services to retail and
 
 # 1. CONFIDENTIAL INFORMATION
 
-1.1 "Confidential Information" means any information, in any form, disclosed by one Party (the "Discloser") to the other (the "Recipient") in connection with the Purpose, which is identified as confidential or which a reasonable person would understand to be confidential. It includes each Party’s business, commercial, financial, technical and operational information, its systems, software, configurations, credentials and data, its pricing and terms, and the existence and contents of this Agreement.
+1.1 "**Confidential Information**" means any information, in any form, disclosed by one Party (the "**Discloser**") to the other (the "**Recipient**") in connection with the Purpose, which is identified as confidential or which a reasonable person would understand to be confidential. It includes each Party’s business, commercial, financial, technical and operational information, its systems, software, configurations, credentials and data, its pricing and terms, and the existence and contents of this Agreement.
 
-1.2 "Representatives" means a Party’s employees, officers, group companies, branches and offices in any country, and its advisers, contractors and subcontractors, in each case involved in the Purpose.
+1.2 "**Representatives**" means a Party’s employees, officers, group companies, branches and offices in any country, and its advisers, contractors and subcontractors, in each case involved in the Purpose.
 
 # 2. OBLIGATIONS
 
@@ -67,7 +65,7 @@ IR supplies software and technology solutions and related services to retail and
 
 8.1 Neither Party shall announce this Agreement or the Purpose publicly, or use the other Party’s name or logo in any publicity, without the other Party’s prior written consent. Consent need only be given once and then covers later use of the same kind, until withdrawn by written notice.
 
-8.2 Optional: the Customer [ GRANTS / DOES NOT GRANT ] consent for IR to identify it by name and logo as a customer of IR. If left blank, consent is not given.
+8.2 Optional: the Customer **[ GRANTS / DOES NOT GRANT ]** consent for IR to identify it by name and logo as a customer of IR. If left blank, consent is not given.
 
 # 9. REMEDIES
 
@@ -89,48 +87,37 @@ IR supplies software and technology solutions and related services to retail and
 
 11.1 This Agreement is governed by the laws of Singapore, and the Parties submit to the exclusive jurisdiction of the Singapore courts, except that either Party may seek interim relief in any competent court.
 
- 
-
+----------
 Signed by duly authorised representatives of the Parties:
 
-For and on behalf of IR
+**For and on behalf of IR**
 
 INTEGRATED RETAIL PTE LTD
 
 _________________________________
-
 Signature
 
 _________________________________
-
 Name
 
 _________________________________
-
-Title
+Title  
 
 _________________________________
-
 Date
 
-For and on behalf of the Customer
+**For and on behalf of the Customer**
 
 [CUSTOMER LEGAL NAME]
 
 _________________________________
-
 Signature
 
 _________________________________
-
 Name
 
 _________________________________
-
 Title
 
 _________________________________
-
 Date
-
- 
