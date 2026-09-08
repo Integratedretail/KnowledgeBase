@@ -163,27 +163,28 @@ This includes changes to a device's privacy mode, enabling an optional data-coll
 
 Retail is seasonal, and our customers cannot absorb disruption during their busiest trading periods.
 
- -   Changes to production environments are scheduled **outside trading hours** in the local time zone, unless the customer agrees otherwise.
+-   Changes to production environments are scheduled outside trading hours in the local time zone, unless the customer agrees otherwise.
     
- - The Company observes **change freeze periods** during peak retail   
-   trading, during which only Emergency changes proceed. These typically
-   include:
+-   The Company observes change freeze periods during peak retail trading, during which only Emergency changes proceed. These typically include:
+    
 
-    -   the year-end and New Year trading period;
+-   the year-end and New Year trading period;
     
-    -   Chinese New Year;
+-   Chinese New Year;
     
-    -   Ramadan and Hari Raya;
+-   Ramadan and Hari Raya;
     
-    -   Songkran;
+-   Songkran;
     
-    -   major regional sale events;
+-   major regional sale events;
     
-    -   any period a customer has notified as a freeze, such as a stocktake or financial year-end.
+-   any period a customer has notified as a freeze, such as a stocktake or financial year-end.
+    
 
 -   Freeze periods are confirmed by Country Managers for each market at the start of each year and communicated to customers.
     
 -   A change during a freeze requires Managing Director approval and the customer's agreement.
+
     
 
 ### 5.8 Emergency Changes
