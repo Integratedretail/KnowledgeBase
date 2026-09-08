@@ -5,9 +5,9 @@ slug: /legal-policies/non-disclosure-agreement-nda
 description: "Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms."
 ---
 
-> ***Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms.***
-
 # MUTUAL NON-DISCLOSURE AGREEMENT
+
+> ***Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms.***
 
 **THIS AGREEMENT** is made on **[DATE]** between:
 
