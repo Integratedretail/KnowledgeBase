@@ -7,6 +7,8 @@ description: "Note: This is a standard template; the final agreement will be tai
 
 > ***Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms.***
 
+# MUTUAL NON-DISCLOSURE AGREEMENT
+
 **THIS AGREEMENT** is made on **[DATE]** between:
 
 (1) **INTEGRATED RETAIL PTE LTD**, incorporated in Singapore (UEN 200602440C), of 26 Sin Ming Lane, #04-114, Midview City, Singapore 573971 ("**IR**"); and
