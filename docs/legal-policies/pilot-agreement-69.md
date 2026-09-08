@@ -5,6 +5,8 @@ slug: /legal-policies/pilot-agreement
 description: "Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms."
 ---
 
+# Pilot Agreement
+
 > ***Note: This is a standard template; the final agreement will be tailored to the specific customer and agreed terms.***
 
 # Customer Journey and Merchandising Analytics for [Customer]
