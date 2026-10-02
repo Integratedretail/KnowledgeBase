@@ -2,296 +2,188 @@
 id: change-management-policy-58
 title: "Change Management Policy"
 slug: /legal-policies/change-management-policy
-description: "Most service disruptions are not caused by attacks or hardware failure. They are caused by changes — an update applied without testing, a configuration…"
+description: "-   You get notice before anything changes. 5 working days for planned changes affecting your service, and at least 1 working day where a change is…"
 ---
 
-Last update: 4 September 2026
+Last update: 2 October 2026
 
 ----------
 
-## 1. Overview
+## At a glance
 
-Most service disruptions are not caused by attacks or hardware failure. They are caused by changes — an update applied without testing, a configuration adjusted without approval, a patch released during trading hours, a change nobody told the customer about.
+> -   **You get notice before anything changes.** 5 working days for planned changes affecting your service, and at least 1 working day where a
+> change is time-constrained. Emergencies are notified as soon as
+> practicable, and within 1 working day afterwards.
+>     
+> -   **We hold back changes during your trading peaks.** Across year-end, Chinese New Year, Hari Raya, Songkran, major sale events, and any
+> period you tell us about, planned work waits. Emergency changes still
+> proceed, and anything else only with senior approval on our side and
+> your agreement.
+>     
+> -   **Changes are approved independently, tested, and recoverable.** A change is approved by someone other than the person who requested it,
+> significant changes are tested in a representative environment first,
+> and how we recover is agreed before approval rather than decided
+> during the incident. Where a particular change can't meet one of
+> these, it proceeds only as a recorded exception with closer monitoring
+> — not by waiving the control.
+>     
+> -   **If a change fails, you hear it from us.** Not from your own operations. We recover, verify any affected data, and tell you what
+> happened.
+>     
+> -   **An emergency means active harm** — an outage, a security exposure, data at risk. A deadline is not an emergency.
+>     
+> -   **Vendor releases are our problem too.** We monitor them, assess them against your configuration before they reach you, and escalate to the
+> vendor when one breaks something. Where a release lands during a
+> critical period and we can't defer it, we mitigate, tell you, and
+> validate afterwards.
 
-Integrated Retail Pte Ltd makes changes to systems that customers depend on to trade. A change that goes wrong in a point-of-sale platform stops a store selling. Change management is how the Company ensures that changes are assessed, approved, tested, communicated and reversible before they reach a production environment.
-
-This policy expands on section 4.11 of the Company's Security Policy and applies uniformly across every solution in the portfolio.
-
-## 2. Purpose
-
-To ensure that every change to a Company or customer production environment is:
-
--   **requested and recorded**, so there is a single account of what changed and when;
     
--   **assessed** for its risk, impact and dependencies;
-    
--   **approved** at a level proportionate to that risk;
-    
--   **tested** where practicable, and **reversible** if it fails;
-    
--   **communicated** to those affected before it happens.
-    
+Detail on each point follows. The full internal Change Management Policy is available on request.
 
-## 3. Scope
+----------
 
-This policy applies to all Integrated Retail employees, contractors and appointed in-country service partners, and to all changes affecting:
+Retail systems have to keep trading. Most service disruption comes not from attacks or hardware failure but from changes — an update applied without testing, a release during a busy period, a change nobody mentioned in advance.
 
--   Company IT systems and business applications;
-    
--   customer environments the Company hosts, manages or supports;
-    
--   configuration of deployed software, hardware and field devices;
-    
--   integrations between a Company-supported solution and another system;
-    
--   the Company's own software products.
-    
+This statement explains how Integrated Retail manages changes to the systems we host, manage or support for you. It applies across every solution in our portfolio.
 
-Outside the scope of this policy:
+It is a summary for customers. The full internal Change Management Policy is available on request.
 
--   **Changes made by a vendor within its own hosted platform**. These are the vendor's to control; section 5.9 sets out how the Company handles them.
-    
--   **Changes the customer makes within their own administrative rights** — user accounts, report configuration, business parameters.
-    
--   **Changes to customer-owned infrastructure**, except where the Company has contracted to manage it.
-    
+----------
 
-Accountability for this policy sits with IT Management.
+## What counts as a change
 
-  
+Any activity that alters the behaviour, configuration, availability, security or data of a system we support — software updates and releases, configuration adjustments, integration changes, database changes, infrastructure changes, access and security changes, and scheduled job changes.
 
-## 4. Roles and Responsibilities
+Routine activity that doesn't alter any of those — running a report, investigating an issue, a normal transaction — isn't a change.
 
-The Company is deliberately not operating a formal Change Advisory Board. At its size, a lightweight process that people actually follow is worth more than a committee that meets monthly.
+## Where changes come from
 
-|Role|Responsibility
+|Source|Example|
 |--|--|
-|Requester|Anyone proposing a change. Raises the request with enough detail to be assessed.
-|Technical Services Manager|Assesses risk and impact, classifies the change, and coordinates scheduling and testing.
-|IT Management|Approves Major changes, owns this policy, and reviews the change record.
-|Managing Director|Approves changes with contractual, financial or reputational consequence, and authorises emergency changes outside normal hours.
-|Data Protection Officer|Assesses any change affecting personal data — what is collected, where it is stored, who can access it, or how long it is kept.
-|Country Managers|Confirm local impact, customer notification and freeze periods in their market.
-|Implementer|Carries out the change as approved, and no more than was approved.
+|We initiate it|Patching a server we host, upgrading an integration
+|You request it|A new report, a changed business rule, an additional site
+|A vendor pushes it|A platform release from the software or hardware vendor
+|Something needs fixing|A corrective change following an incident
 
-No single person may approve and implement their own Major change.
+Each is handled under the same process, but we control them to different degrees. Vendor releases are covered separately below.
 
-  
+## How we assess a change
 
-## 5. Policy
+Before anything reaches your environment we assess it against six things: what stops working if it goes wrong, how many of your sites and users are affected, whether data is created or altered, whether security or access is affected, whether it can be reversed, and whether we have done it before in production.
 
-### 5.1 Where Changes Come From
+That assessment sets the level of control — how it is approved, how it is tested, and how much notice you get. We assess the specific change, not the category it falls into: a configuration change isn't low risk just because it's a configuration change.
 
-|Source|Example|Who controls it
-|--|--|--|
-|Company-initiated|Patching a server we host, adjusting a configuration, upgrading an integration|Integrated Retail, under this policy
-|Customer-requested|New report, changed business rule, additional site or device|Integrated Retail, on the customer's written instruction
-|Vendor-initiated|A platform release or forced update pushed by the software or hardware vendor|The vendor — see section 5.9
-|Company-developed product|A release of one of the Company's own software products|Integrated Retail, under this policy and section 5.10
-|Corrective|A fix following an incident or fault|Integrated Retail, often as an Emergency change
+Higher-risk changes are approved by our management, and **a change is approved by someone other than the person who requested it**. Where team availability makes that impossible, the reason is recorded and reviewed.
 
-### 5.2 Change Classification
+## Notice you will receive
 
-Every change is classified before it proceeds. The classification determines the approval needed, the testing expected and the notice given.
+|Type of change|Notice|
+|--|--|
+|Planned change affecting your service|5 working days in advance
+|Time-constrained change affecting your service|At least 1 working day in advance, where practicable
+|Emergency change|As soon as practicable, and within 1 working day afterwards
+|Change with no effect on your service or users|No notice needed
 
-|Class|Description|Approval|Customer notice
-|--|--|--|--|
-|Standard|Routine, low-risk, well-understood, performed repeatedly with a known method — adding a user, a routine patch, a device swap|Pre-approved; recorded but not individually approved|Not required unless service-affecting
-|Minor|Low impact, affects one system or site, easily reversed|Technical Services Manager|Where the customer is affected
-|Major|Affects a production environment, multiple sites, an integration, personal data, or carries meaningful risk of disruption|IT Management|Required, in advance
-|Emergency|Needed immediately to restore service or close a security exposure|See section 5.8|As soon as practicable
+Every notification tells you the date, the expected impact, how long it will take, who to contact, and anything you need to do.
 
-Where there is doubt about the class, the change is treated as the higher one.
+For significant changes to your production environment, **we ask for your written acknowledgement before proceeding**. Emergency changes are the exception — there, we act to protect the service first and tell you as soon as practicable afterwards.
 
-### 5.3 The Change Process
+## When changes happen
 
-1.  **Request** — recorded in the Company's ticketing or change record, stating what is changing, why, which systems and customers are affected, and the proposed timing.
+We schedule around how your service actually runs — outside trading hours for store systems, outside processing windows for batch services, and by agreement where a service runs continuously.
+
+We also observe **business-critical periods**, during which planned work is held back. These typically include:
+
+-   the year-end trading period
     
-2.  **Assess** — risk and impact are evaluated: what depends on this system, what happens if the change fails, whether personal data is affected, whether a contract or service commitment is touched.
+-   Chinese New Year
     
-3.  **Classify** — per section 5.2.
+-   Ramadan and Hari Raya
     
-4.  **Approve** — at the level in section 5.2. Approval is recorded before work begins.
+-   Songkran
     
-5.  **Plan** — including the rollback position (section 5.5) and the change window (section 5.7).
+-   major regional sale events
     
-6.  **Test** — where a representative environment exists.
-    
-7.  **Notify** — those affected, per section 5.6.
-    
-8.  **Implement** — as approved, by the assigned implementer.
-    
-9.  **Verify** — confirm the change worked and the service is functioning. Take a configuration snapshot.
-    
-10.  **Record** — close the change with the outcome, including whether it succeeded, partially succeeded or was rolled back.
-
-A change that skips assessment or approval is a policy violation regardless of whether it worked.
-
-### 5.4 Changes Affecting Personal Data
-
-Any change that alters what personal data a solution collects, where it is stored, who can access it, or how long it is retained is referred to the Data Protection Officer before approval.
-
-This includes changes to a device's privacy mode, enabling an optional data-collecting feature, altering a retention setting, or moving data to a new hosting location. Where the change affects a customer's environment, we ask the customer to confirm they have a lawful basis and appropriate notices in place, as set out in the GDPR and PDPA Compliance Statements.
-
-### 5.5 Testing and Rollback
-
--   Changes are tested in a controlled, representative environment before reaching production, wherever such an environment exists.
-    
--   Where no test environment is feasible, this is recorded, and the change is implemented with a shortened rollback trigger and closer monitoring.
-    
--   Every Major change has a documented rollback position identified before implementation — what will be reverted, how, by whom, and how long it will take.
-    
--   A configuration snapshot is taken before and after the change, so the previous state can be restored.
-    
--   If the change does not produce the expected result, it is rolled back rather than fixed forward under time pressure, unless rolling back would cause greater harm.
+-   any period you tell us about — a stocktake, a financial year-end, a store opening
     
 
-### 5.6 Customer Notification
+Our country teams confirm these for each market at the start of the year. **Tell us your peak periods and we will schedule around them**.
 
--   Customers are notified in advance of any change that may affect their service, with the date, the expected impact, the duration, and who to contact.
-    
--   Notice is given at least **5 working days** ahead for Major changes, and sooner where practicable for Minor ones.
-    
--   Where a change alters how a customer uses the system, notification includes what they need to do.
-    
--   Customer-facing communication follows the authorised channel set out in the Disaster Recovery Plan; individual employees and partners do not announce changes independently.
-    
--   The customer's written acknowledgement is obtained for changes affecting a production environment.
-    
+During these periods, emergency changes still proceed. Anything else goes ahead only with senior approval on our side and your agreement. Vendor releases are the one category we cannot always hold back — see below.
 
-### 5.7 Change Windows and Freeze Periods
+## Testing and reversal
 
-Retail is seasonal, and our customers cannot absorb disruption during their busiest trading periods.
+Significant changes are tested in a representative environment before they reach production. Where no such environment exists for a particular change, that is approved as a recorded exception on our side, with tighter recovery triggers and closer monitoring during implementation. It isn't simply skipped.
 
--   Changes to production environments are scheduled outside trading hours in the local time zone, unless the customer agrees otherwise.
-    
--   The Company observes change freeze periods during peak retail trading, during which only Emergency changes proceed. These typically include:
-    
+Before a change is approved, we record how it will be recovered if it fails. Depending on the change, that means reversing it, applying a corrective fix where reversal isn't possible, or containing the impact — decided in advance, not during the incident. For higher-risk changes we also record who can call the recovery and how long we will spend attempting it before switching to alternative restoration.
 
--   the year-end and New Year trading period;
+We also agree beforehand what "working" looks like, so success is measured against a standard set in advance rather than judged afterwards.
+
+## If a change fails
+
+-   We recover using the plan agreed before the change.
     
--   Chinese New Year;
+-   If your service is affected, we handle it as an incident alongside the recovery.
     
--   Ramadan and Hari Raya;
+-   Where data may have become inconsistent, we verify it before returning the service to normal use.
     
--   Songkran;
+-   **We tell you**. You should hear about a failure and its recovery from us, not from your own operations.
     
--   major regional sale events;
-    
--   any period a customer has notified as a freeze, such as a stocktake or financial year-end.
+-   We don't re-attempt until we understand the failure and the corrective approach well enough to avoid an uncontrolled repeat, and the revised plan has been re-approved.
     
 
--   Freeze periods are confirmed by Country Managers for each market at the start of each year and communicated to customers.
-    
--   A change during a freeze requires Managing Director approval and the customer's agreement.
+## Emergency changes
 
-    
+An emergency is active or developing harm — an outage, serious degradation, a security exposure, or data at risk. In those cases we act first and complete the full record within one working day.
 
-### 5.8 Emergency Changes
+**A deadline is not an emergency**. Neither is commercial pressure, late planning, or wanting to avoid a freeze period. Time-constrained work that isn't an emergency goes through a shortened route that still preserves assessment, approval and recovery planning.
 
-An Emergency change is one where waiting for normal approval would cause greater harm than proceeding — a service outage, a security exposure, or data at risk.
+## Vendor-initiated changes
 
--   The change may be implemented on the verbal approval of IT Management or the Managing Director.
-    
--   **The normal record is completed within one working day**, retrospectively, with the same detail as any other change including the justification for treating it as an emergency.
-    
--   IT Management reviews all Emergency changes at least monthly. A pattern of emergencies usually indicates a planning or capacity problem rather than genuine urgency.
-    
--   Where the emergency arose from an incident, the change forms part of the post-incident review under the Security Policy.
-    
+For platforms hosted by a vendor, we don't control the release schedule — but we remain responsible for your experience of it. We:
 
-### 5.9 Vendor-Initiated Changes
-
-For platforms hosted by a vendor, the Company does not control the release schedule. It remains responsible for the customer experience of those releases.
-
--   We monitor vendor release notes, advisories and end-of-life notices for every product in the portfolio.
+-   monitor vendor release notes, advisories and end-of-life notices for every product we supply;
     
--   We assess each vendor release for its impact on our customers' configurations and integrations before it reaches them, where the vendor gives sufficient notice.
+-   assess each release against your configuration and integrations before it reaches you, where notice allows;
     
--   We pass on relevant vendor notifications to affected customers, translated into what it means for their operation rather than forwarded raw.
+-   pass on what's relevant, translated into what it means for your operation rather than forwarded raw;
     
--   Where a vendor release breaks a customer's configuration or integration, we treat it as an incident and escalate to the vendor.
-    
--   Where a vendor offers a choice of release timing, we schedule it in line with section 5.7.
+-   treat a release that breaks your configuration as an incident, and escalate it to the vendor.
     
 
-### 5.10 Version Control and Releases of Company-Developed Products
+Where we can't defer or decline a vendor change, we tell you what we're doing about it rather than implying we approved it.
 
-For software the Company develops itself:
+**This includes during your critical periods**. A freeze we observe does not bind a vendor, and a release may land in the middle of one. Where we cannot defer or decline it, we apply the available mitigation, notify you, and validate your environment afterwards.
 
--   All source code is held under version control, with changes attributable to an individual.
-    
--   Development, test and production environments are kept separate. Production data is not used for development or testing unless anonymised.
-    
--   Code changes are reviewed and approved by someone other than the author before release.
-    
--   Releases are versioned, and the version deployed to each customer is recorded.
-    
--   Release notes are produced for every release and made available to affected customers.
-    
--   Superseded versions are retained long enough to support rollback, in line with the Data Retention Policy.
-    
+## Changes you make yourself
 
-### 5.11 Records and Post-Implementation Review
+Changes you make within your own administrative rights are yours to control and don't need our approval.
 
--   All change requests are recorded, whether approved, rejected or withdrawn, in a single central record.
-    
--   The record includes the request, the assessment, the approval, the implementation, the outcome, and any rollback.
-    
--   System and configuration documentation is updated on completion of each change. Superseded documentation is archived or disposed of under the Data Retention Policy.
-    
--   **A failed or rolled-back change is reviewed** to establish why, and the finding is applied to the next similar change.
-    
--   IT Management reviews the change record at least quarterly, looking at failure rate, emergency rate and whether classifications were applied sensibly.
-    
+If such a change affects something we're accountable for — a supported integration, a configuration we maintain, a service level we've committed to — **please tell us beforehand**. We'd rather help you plan it than diagnose it afterwards.
 
-### 5.12 Changes Affecting Agreements
+## Changes affecting our agreement
 
-Where a change alters what has been contractually agreed — scope, service levels, recovery objectives, data location, or pricing — it is not implemented on a change record alone. It requires a contractual amendment agreed with the customer, approved by the Managing Director.
+If a change alters what we've contractually agreed — scope, service levels, recovery objectives, data location or pricing — it isn't done on a change record alone. It requires a contractual amendment agreed with you.
 
-  
+----------
 
-## 6. Customer Responsibilities
+## What we ask of you
 
-Customers are responsible for:
-
--   raising change requests through the Company helpdesk rather than directly with individual staff, so the request is recorded;
+-   Raise change requests through our helpdesk, so they're recorded rather than sitting in someone's inbox.
     
--   telling us their freeze periods and trading peaks, so we can schedule around them;
+-   Tell us your business-critical periods and trading peaks.
     
--   providing a named contact to approve changes affecting their production environment;
+-   Give us a named contact who can approve and acknowledge changes to your production environment.
     
--   testing and signing off changes made at their request, where user acceptance is needed;
+-   Sign off changes made at your request where user acceptance applies.
     
--   controlling changes they make within their own administrative rights, and telling us where those changes may affect a Company-supported integration.
+-   Tell us before making your own changes that could affect something we support.
     
 
-  
+----------
 
-## 7. Policy Compliance
+## Contact
 
-### 7.1 Compliance Measurement
+**Integrated Retail Pte Ltd** Email: connect@integratedretail.com
 
-IT Management verifies compliance through review of the change record, comparison of implemented changes against approvals, incident root-cause analysis, and internal and external audits. Records are retained in line with the Data Retention Policy.
-
-### 7.2 Exceptions
-
-Any exception to this policy must be approved by IT Management in advance, recorded with a business justification and a compensating control, and re-approved at each annual review. Emergency changes under section 5.8 follow that section and are not exceptions.
-
-### 7.3 Non-Compliance
-
-An employee found to have violated this policy — including by implementing an unapproved change to a production environment — may be subject to disciplinary action, up to and including termination of employment. Appointed partners found in violation may have their appointment suspended or terminated.
-
-  
-
-## 8. Review
-
-This policy is reviewed and updated at least annually, and also after any change that caused a significant service disruption, any material change to the portfolio, and any change to the Company's development or hosting arrangements.
-
-  
-
-## 9. Contact
-
-Questions about this policy, or about a change affecting a specific deployment, may be directed to:
-
-**Integrated Retail Pte Ltd** Email: connect@integratedretail.co
+The full Change Management Policy, and our related security, data protection and continuity documentation, are available on request.
